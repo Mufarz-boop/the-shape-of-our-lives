@@ -8,8 +8,8 @@ GENERASI -3
 GENERASI -2
 GENERASI -1
 GENERASI 0
-    Anak
-        1. Nama: Hadrian Ferdinand Ardhana
+   Anak
+      1. Nama: Hadrian Ferdinand Ardhana
            Pasangan: 
            Anak: 
 

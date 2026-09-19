@@ -1,12 +1,102 @@
 GENERASI -3
    1. Nama: 
       Pasangan: 
-      Anak: 
+      Anak: 1. 
+            2. 
       
 GENERASI -2
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+               4. 
+               5. 
+
 GENERASI -1
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+               4. 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+
+      3. Nama: 
+         Pasangan: -
+         Anak: -
+
+      4. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
+      5. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
 GENERASI 0
-    Anak
-        1. Nama: Zarina Nura
-           Pasangan: 
-           Anak: 
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Zarina Nura [27 April 2009]
+         Pasangan: 
+         Anak: 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 
+
+      4. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 

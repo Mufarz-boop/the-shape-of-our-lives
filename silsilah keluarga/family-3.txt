@@ -1,12 +1,162 @@
 GENERASI -3
    1. Nama: 
       Pasangan: 
-      Anak: 
+      Anak: 1. 
+            2. 
+            3. 
+            4. 
+            5. 
       
 GENERASI -2
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+
+      2. Nama: 
+         Pasangan: -
+         Anak: -
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+               4. 
+               5. 
+
+      4. Nama: 
+         Pasangan: -
+         Anak: -
+
+      5. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+
 GENERASI -1
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+               4. 
+
+      2. Nama: 
+         Pasangan: -
+         Anak: -
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
+      2. Nama: 
+         Pasangan: -
+         Anak: -
+
+      3. Nama: 
+         Pasangan: -
+         Anak: -
+
+      4. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
+      5. Nama: 
+         Pasangan: -
+         Anak: -
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
 GENERASI 0
-    Anak
-        1. Nama: Ishaan Habiel
-           Pasangan: 
-           Anak: 
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+      3. Nama: Ishaan Habiel
+         Pasangan: 
+         Anak: 
+
+      4. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
