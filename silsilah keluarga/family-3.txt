@@ -33,7 +33,7 @@ GENERASI -2
 
       5. Nama: 
          Pasangan: 
-         Anak: 1. 
+         Anak: 1. Muhammad Hasyim
                2. 
                3. 
 
@@ -78,12 +78,13 @@ GENERASI -1
          Pasangan: -
          Anak: -
 
-   Anak
-      1. Nama: 
-         Pasangan: 
-         Anak: 1. 
-               2. 
-               3. 
+   Anak 
+      1. Nama: Muhammad Hasyim [04 Mei 1983]
+         Pasangan: Nur Aisyah [11 Juli 1979]
+         Anak: 1. Alya Khairunnisa
+               2. Faris Alghifari
+               3. Zarina Nura
+               4. Fauzan Maulana
 
       2. Nama: 
          Pasangan: 
@@ -138,16 +139,20 @@ GENERASI 0
          Pasangan: 
          Anak: 
 
-   Anak
-      1. Nama: 
+   Anak Nur Aisyah dengan Muhammad Hasyim
+      1. Nama: Alya Khairunnisa [13 Oktober 2005]
          Pasangan: 
          Anak: 
 
-      2. Nama: 
+      2. Nama: Faris Alghifari [02 September 2007]
          Pasangan: 
          Anak: 
 
-      3. Nama: 
+      3. Nama: Zarina Nura [27 April 2009]
+         Pasangan: 
+         Anak: 
+
+      4. Nama: Fauzan Maulana [11 Agustus 2011]
          Pasangan: 
          Anak: 
 
