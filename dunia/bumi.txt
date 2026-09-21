@@ -1,111 +1,144 @@
-Buat sebuah **cover novel fiksi profesional bergaya sinematik, realistis, serius, misterius, dan dramatis** untuk novel berjudul **“THE SHAPE OF OUR LIVES”**, dengan subjudul **“Awal dan Akhir yang Datang ke Dunia”**.
+ Buat sebuah ilustrasi sinematik realistis dan sangat detail yang menggambarkan **momen pertama seorang penulis bernama Theodore setelah kematiannya di Bumi asli, ketika kesadarannya tiba-tiba terbangun di dalam tubuh seorang anak laki-laki berusia 15 tahun bernama Deon Aster**, di sebuah dunia pasca-apocalypse yang sebenarnya merupakan dunia fiksi yang pernah ia ciptakan sendiri.
 
-### KONSEP UTAMA
+### SUBJEK UTAMA
 
-Cover menggambarkan **Bumi pada tahun 2031** yang sedang berada di ambang kehancuran akibat sebuah peristiwa apocalypse yang belum sepenuhnya terlihat. Nuansa utama harus menunjukkan perpaduan antara **dunia modern yang nyata, kehancuran, misteri, regression, dan metafiction**, seolah-olah seseorang sedang menyaksikan dunia nyata berubah menjadi sebuah cerita yang pernah ia tulis.
+Di pusat komposisi terdapat **Deon Aster, seorang anak laki-laki berusia 15 tahun**, yang baru saja sadar di tengah jalan raya yang hancur.
 
-### KOMPOSISI VISUAL
+Ia berada dalam posisi setengah berlutut atau terduduk di permukaan aspal yang retak, seolah baru saja terbangun setelah mengalami sesuatu yang tidak dapat dipahami. Salah satu tangannya bertumpu pada aspal untuk menjaga keseimbangan, sementara tangan lainnya perlahan terangkat ke depan dan diperhatikan dengan ekspresi kebingungan.
 
-Gunakan komposisi **portrait vertikal seperti sampul novel**, dengan keseimbangan visual yang kuat.
+Tubuhnya adalah tubuh anak laki-laki berusia 15 tahun dengan **proporsi manusia yang realistis**, tidak terlalu berotot dan tidak terlihat seperti orang dewasa. Pakaian yang dikenakannya merupakan pakaian kasual modern yang telah terkena debu, kotoran, dan sedikit kerusakan akibat lingkungan.
 
-Pada bagian **latar belakang**, tampilkan sebuah kota modern di Bumi tahun 2031 yang telah mengalami kehancuran besar. Gedung-gedung pencakar langit rusak, beberapa bangunan kehilangan sebagian strukturnya, jalan raya dipenuhi kendaraan yang ditinggalkan, terdapat debu dan kabut tipis di udara, serta tanda-tanda kehidupan modern yang perlahan runtuh. Jangan membuat kehancuran terlalu gore atau menjijikkan. Fokus pada atmosfer kehancuran dan kesunyian.
+Wajah Deon memperlihatkan **kebingungan, ketakutan yang tertahan, ketidakpercayaan, dan keterkejutan**, bukan ekspresi heroik. Ia baru saja menyadari bahwa tubuh yang ia lihat dan rasakan bukan tubuhnya.
 
-Di bagian **langit**, tampilkan langit yang gelap dan dramatis dengan awan tebal yang berputar secara tidak alami. Di balik awan terdapat **cahaya putih kebiruan yang sangat terang**, seperti retakan atau celah misterius di langit. Cahaya tersebut menjadi salah satu sumber pencahayaan utama dalam komposisi dan memberikan kesan bahwa realitas sedang mengalami perubahan.
+Jangan membuatnya tersenyum.
 
-Di bagian **tengah cover**, tampilkan **seorang anak laki-laki berusia sekitar 15 tahun** berdiri sendirian dari arah belakang atau tiga-perempat belakang, sehingga wajahnya tidak terlihat jelas. Ia mengenakan pakaian sederhana dan realistis yang sesuai dengan kehidupan manusia modern tahun 2031, sedikit kotor dan terkena debu akibat keadaan dunia. Tubuhnya harus memiliki proporsi manusia yang normal dan realistis. Ia berdiri menghadap kota yang telah hancur dan cahaya misterius di langit.
+### PERSPEKTIF DAN EKSPRESI
 
-Karakter tersebut harus terlihat **kecil dibandingkan lingkungan**, untuk menekankan bahwa ia sedang menghadapi sesuatu yang jauh lebih besar daripada dirinya sendiri.
+Gunakan perspektif sinematik dari posisi sedikit rendah, seolah kamera berada beberapa meter di depannya.
 
-Di salah satu sisi belakang karakter, tampilkan **bayangan atau siluet samar makhluk misterius** yang hanya terlihat sebagian melalui kabut dan kegelapan. Jangan menampilkan monster secara berlebihan atau terlalu jelas. Monster harus terasa mengancam tetapi tetap menjadi misteri. Bentuknya harus orisinal, tidak menyerupai karakter atau monster dari franchise yang sudah ada.
+Fokus utama berada pada Deon, tetapi lingkungan di sekitarnya harus tetap terlihat jelas sehingga pembaca memahami bahwa ia **terbangun di tengah kehancuran total**.
 
-### UNSUR METAFICTION
+Ekspresinya harus menunjukkan seseorang yang sedang mencoba memahami:
 
-Tambahkan elemen metafiction secara subtil, bukan secara literal dan berlebihan.
+**“Di mana aku?”**
 
-Di sekitar karakter dan sebagian langit, terdapat **fragmen-fragmen tipis seperti lembaran kertas, halaman manuskrip, atau potongan tulisan yang sedang terurai menjadi partikel cahaya**. Beberapa fragmen terlihat seperti halaman yang terbawa angin, tetapi tidak boleh menampilkan teks panjang yang tidak terbaca.
+lalu secara perlahan menyadari sesuatu yang jauh lebih mengerikan:
 
-Buat seolah-olah **realitas dan sebuah cerita sedang bertabrakan**. Sebagian kecil lingkungan dapat terlihat seperti berubah menjadi potongan halaman atau tinta yang terurai, tetapi efek tersebut harus sangat halus dan elegan. Jangan membuat cover terlihat seperti buku sihir atau fantasi klasik.
+**“Ini bukan dunia yang seharusnya.”**
 
-### SIMBOL REGRESSION
+Jangan menampilkan teks atau dialog dalam gambar.
 
-Tambahkan simbol visual yang halus untuk menggambarkan regression: misalnya **lingkaran cahaya atau fragmen waktu yang berputar ke belakang**, sangat samar di belakang karakter. Gunakan kesan visual seperti waktu yang sedang diputar kembali, bukan jam besar yang memenuhi cover.
+### LINGKUNGAN
 
-Jangan menggunakan simbol time travel yang klise seperti mesin waktu, portal besar, atau jam raksasa.
+Lokasi adalah **jalan raya di sebuah kota modern di Bumi tahun 2031**, tetapi kota tersebut telah mengalami kehancuran besar.
 
-### WARNA DAN PENCAHAYAAN
+Di sekeliling Deon terdapat:
 
-Gunakan palet warna yang dominan:
+* gedung pencakar langit yang runtuh sebagian,
+* gedung perkantoran dengan jendela pecah,
+* apartemen yang rusak,
+* jalan raya penuh retakan,
+* kendaraan yang ditinggalkan dan rusak,
+* lampu lalu lintas yang roboh,
+* tiang listrik yang patah,
+* kabel listrik bergelantungan,
+* papan reklame yang rusak,
+* fasilitas umum yang hancur,
+* pecahan kaca,
+* beton dan logam berserakan,
+* asap tipis,
+* debu yang terbawa angin,
+* dan reruntuhan bangunan di sepanjang jalan.
 
-* hitam
-* abu-abu gelap
-* biru gelap
-* putih kebiruan
-* sedikit warna merah kusam sebagai aksen kehancuran
+Jangan membuat kota terlihat seperti perang modern biasa. Kehancurannya harus terasa **lebih besar, lebih asing, dan lebih tidak masuk akal**, seolah sebuah peradaban telah dihantam oleh sesuatu yang tidak mampu dipahami manusia.
 
-Kontras utama harus berasal dari **cahaya putih kebiruan di langit** terhadap dunia yang gelap.
+### MONSTER
 
-Pencahayaan harus bersifat **cinematic lighting**, volumetric lighting, atmospheric lighting, realistic shadows, subtle rim light pada karakter, dan depth of field yang natural.
+Di kejauhan dan di berbagai lapisan lingkungan, tampilkan **keberadaan monster tanpa menjadikan mereka fokus utama**.
 
-Jangan menggunakan warna neon berlebihan, warna terlalu cerah, atau estetika kartun.
+Di langit, terdapat beberapa makhluk besar yang terbang di antara gedung-gedung yang hancur. Siluet mereka terlihat jelas tetapi detail tubuhnya sebagian tertutup awan, kabut, dan asap.
 
-### JUDUL
+Di permukaan tanah, jauh di belakang Deon, terlihat bayangan makhluk yang bergerak di antara reruntuhan.
 
-Letakkan judul utama dengan jelas di bagian atas atau sepertiga atas cover:
+Pada salah satu bagian jalan, terdapat tanda bahwa sesuatu yang besar baru saja bergerak dari bawah tanah: retakan panjang pada aspal, tanah yang terangkat, dan reruntuhan yang terdorong ke samping.
 
-**THE SHAPE OF OUR LIVES**
+Jangan membuat monster terlihat seperti naga, zombie, alien generik, atau makhluk dari franchise lain. Buat desain mereka **orisinal, mengerikan, tidak manusiawi, dan sulit dikenali**.
 
-Gunakan tipografi **serif modern yang elegan, kuat, minimalis, dan mudah dibaca**. Huruf kapital seluruhnya. Warna putih atau putih keabu-abuan dengan sedikit efek cahaya yang sangat halus.
+Monster tidak perlu menyerang Deon pada saat ini. Kehadiran mereka harus menciptakan perasaan bahwa **ia berada sangat dekat dengan sesuatu yang dapat membunuhnya kapan saja**.
 
-Judul harus menjadi elemen tipografi terbesar dan paling mudah dibaca.
+### ATMOSFER
 
-Di bawah judul, letakkan subjudul:
+Suasana harus sangat sunyi meskipun dunia berada dalam kondisi kehancuran.
 
-**Awal dan Akhir yang Datang ke Dunia**
+Tidak ada kerumunan manusia.
 
-Gunakan ukuran yang lebih kecil daripada judul utama. Tipografinya harus sederhana, elegan, dan tetap mudah dibaca.
+Tidak ada kendaraan yang bergerak.
 
-Jika terdapat nama penulis, letakkan di bagian paling bawah dengan ukuran kecil dan bersih. Jika nama penulis tidak diberikan, **jangan membuat atau mengarang nama penulis**.
+Tidak ada kota yang berfungsi.
 
-### GAYA VISUAL
+Hanya suara visual dari angin, debu, reruntuhan, dan keberadaan makhluk-makhluk yang tidak terlihat sepenuhnya.
 
-Gunakan gaya:
+Langit sangat gelap dengan awan tebal dan cahaya redup dari matahari yang tertutup asap.
 
-**cinematic realism, photorealistic environment, realistic human proportions, dark atmospheric science fiction, post-apocalyptic drama, subtle supernatural elements, literary metafiction, high-end novel cover design, professional publishing artwork, dramatic composition, realistic environmental details, sophisticated visual storytelling, cinematic depth, atmospheric perspective, detailed lighting.**
+Gunakan atmosfer **post-apocalyptic, lonely, ominous, mysterious, psychological horror**.
 
-Hasil akhir harus terlihat seperti **cover novel yang benar-benar siap diterbitkan oleh penerbit profesional**, bukan poster film, bukan fan art, bukan ilustrasi game, dan bukan gambar generik bertema kiamat.
+### ELEMEN METAFICTION
 
-### AKURASI DAN KUALITAS
+Tambahkan unsur metafiction secara **sangat halus**.
+
+Di udara sekitar Deon terdapat beberapa partikel kecil menyerupai serpihan kertas atau tinta yang perlahan terurai menjadi cahaya. Jangan membuatnya terlalu jelas.
+
+Sebagian kecil bangunan di kejauhan dapat memiliki efek visual yang sangat samar seperti realitas sedang mengalami distorsi, seolah-olah dunia tersebut merupakan sesuatu yang pernah ditulis dan sekarang menjadi nyata.
+
+Namun efek tersebut harus cukup subtil sehingga pada pandangan pertama tetap terlihat seperti dunia nyata.
+
+### KESAN VISUAL
+
+Gambar harus menyampaikan tiga hal sekaligus:
+
+1. **Seorang manusia baru saja mendapatkan kehidupan kedua.**
+2. **Ia tidak tahu bagaimana ia sampai di sana.**
+3. **Ia sebenarnya sedang berdiri di dalam dunia yang pernah ia ciptakan sendiri.**
+
+Jangan menjelaskan konsep tersebut melalui teks. Semua informasi harus disampaikan melalui ekspresi karakter, lingkungan, komposisi, pencahayaan, dan atmosfer.
+
+### GAYA
+
+Gunakan:
+
+**cinematic realism, photorealistic environment, realistic human anatomy, post-apocalyptic urban environment, psychological horror atmosphere, dark science fiction, subtle supernatural elements, cinematic composition, volumetric lighting, atmospheric perspective, realistic debris, realistic destruction, highly detailed environment, dramatic lighting, shallow depth of field, professional concept art, high-end cinematic still.**
+
+Palet warna dominan **abu-abu gelap, hitam, biru dingin, putih kusam, dan sedikit warna merah gelap sebagai aksen**.
+
+Hindari warna neon berlebihan.
+
+### AKURASI
 
 Pastikan:
 
-* anatomi manusia normal dan proporsional
-* tangan dan jari tidak cacat
-* tidak ada anggota tubuh tambahan
-* tidak ada wajah yang terdistorsi
-* tidak ada objek yang menyatu secara tidak wajar
-* perspektif bangunan konsisten
-* pencahayaan konsisten
-* teks judul dieja persis **“THE SHAPE OF OUR LIVES”**
-* subjudul dieja persis **“Awal dan Akhir yang Datang ke Dunia”**
-* tidak ada tulisan acak atau gibberish
-* tidak ada watermark
-* tidak ada logo perusahaan
-* tidak ada nama franchise lain
-* tidak ada karakter dari karya lain
-* tidak ada elemen komedi
-* tidak ada gore berlebihan
-* tidak ada desain anime atau kartun
-* tidak ada estetika fantasy medieval
-* tidak ada senjata yang menjadi fokus utama
-* tidak ada kendaraan futuristik yang tidak sesuai dengan Bumi tahun 2031
-* dunia harus tetap terasa seperti **Bumi modern yang realistis**
+* hanya satu karakter manusia utama yang menjadi fokus;
+* usia karakter terlihat sekitar 15 tahun;
+* anatomi manusia realistis;
+* tangan dan jari normal;
+* tidak ada anggota tubuh tambahan;
+* wajah tidak terdistorsi;
+* proporsi tubuh realistis;
+* perspektif bangunan konsisten;
+* kendaraan dan fasilitas terasa berasal dari Bumi tahun 2031;
+* kehancuran terlihat realistis;
+* monster memiliki desain orisinal;
+* tidak ada logo atau franchise lain;
+* tidak ada teks acak;
+* tidak ada watermark;
+* tidak ada elemen fantasy medieval;
+* tidak ada estetika anime;
+* tidak ada komedi;
+* tidak ada gore eksplisit.
 
 ### HASIL AKHIR
 
-Cover harus memberikan kesan:
+Hasil akhir harus terlihat seperti **satu frame dari film psychological post-apocalyptic berkualitas tinggi**, bukan poster aksi.
 
-**“Seseorang kembali ke dunia yang pernah ia ciptakan, tetapi dunia itu ternyata tidak lagi mengikuti cerita yang ia tulis.”**
+Gambar harus membuat penonton merasakan bahwa mereka sedang melihat **detik pertama kehidupan kedua Theodore sebagai Deon Aster**, ketika ia belum memahami apa yang terjadi dan belum mengetahui bahwa dunia di sekelilingnya adalah dunia yang dahulu ia tulis sendiri.
 
-Visual harus terasa **misterius, melankolis, megah, sunyi, mengancam, dan penuh pertanyaan**, dengan fokus pada hubungan antara manusia, kehancuran dunia, waktu, dan cerita yang menjadi kenyataan.
-
-**Format:** portrait, rasio 2:3, resolusi sangat tinggi, detail sangat tajam, kualitas profesional, siap digunakan sebagai sampul novel.
+**Format:** portrait vertikal, rasio 2:3, resolusi sangat tinggi, detail sinematik, realistic lighting, professional cinematic composition.
