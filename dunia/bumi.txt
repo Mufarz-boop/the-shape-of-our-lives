@@ -1,144 +1,318 @@
- Buat sebuah ilustrasi sinematik realistis dan sangat detail yang menggambarkan **momen pertama seorang penulis bernama Theodore setelah kematiannya di Bumi asli, ketika kesadarannya tiba-tiba terbangun di dalam tubuh seorang anak laki-laki berusia 15 tahun bernama Deon Aster**, di sebuah dunia pasca-apocalypse yang sebenarnya merupakan dunia fiksi yang pernah ia ciptakan sendiri.
+Buat sebuah ilustrasi sinematik realistis, sangat detail, atmosferis, dan profesional yang menggambarkan **momen pertama Theodore setelah kematiannya di Bumi asli, ketika kesadarannya terbangun di dalam tubuh seorang pria muda berusia 21 tahun bernama Deon Aster**, di sebuah dunia pasca-apocalypse yang sebenarnya merupakan dunia fiksi yang pernah ia ciptakan sendiri.
 
-### SUBJEK UTAMA
+## SUBJEK UTAMA
 
-Di pusat komposisi terdapat **Deon Aster, seorang anak laki-laki berusia 15 tahun**, yang baru saja sadar di tengah jalan raya yang hancur.
+Di pusat komposisi terdapat **Deon Aster, pria berusia 21 tahun**, yang baru saja tersadar di tengah sebuah jalan raya yang telah hancur.
 
-Ia berada dalam posisi setengah berlutut atau terduduk di permukaan aspal yang retak, seolah baru saja terbangun setelah mengalami sesuatu yang tidak dapat dipahami. Salah satu tangannya bertumpu pada aspal untuk menjaga keseimbangan, sementara tangan lainnya perlahan terangkat ke depan dan diperhatikan dengan ekspresi kebingungan.
+Ia berada dalam posisi **setengah berlutut atau terduduk di atas aspal yang retak**, seolah baru saja terbangun setelah mengalami sesuatu yang tidak dapat dipahami. Salah satu tangannya bertumpu pada permukaan jalan untuk menjaga keseimbangan, sementara tangan lainnya perlahan diangkat ke depan wajahnya.
 
-Tubuhnya adalah tubuh anak laki-laki berusia 15 tahun dengan **proporsi manusia yang realistis**, tidak terlalu berotot dan tidak terlihat seperti orang dewasa. Pakaian yang dikenakannya merupakan pakaian kasual modern yang telah terkena debu, kotoran, dan sedikit kerusakan akibat lingkungan.
+Ia sedang memperhatikan tangannya dengan penuh kebingungan.
 
-Wajah Deon memperlihatkan **kebingungan, ketakutan yang tertahan, ketidakpercayaan, dan keterkejutan**, bukan ekspresi heroik. Ia baru saja menyadari bahwa tubuh yang ia lihat dan rasakan bukan tubuhnya.
+Tubuhnya harus memiliki **proporsi pria dewasa muda yang realistis**, dengan postur alami dan anatomi manusia yang benar. Jangan membuatnya terlalu berotot atau terlihat seperti model. Ia harus terlihat seperti manusia biasa berusia 21 tahun yang tiba-tiba terlempar ke dalam situasi yang mustahil.
 
-Jangan membuatnya tersenyum.
+Ia mengenakan pakaian kasual modern yang sesuai dengan kehidupan manusia di Bumi tahun 2031. Pakaiannya sedikit kotor, berdebu, kusut, dan mengalami kerusakan ringan akibat lingkungan.
 
-### PERSPEKTIF DAN EKSPRESI
+Wajah Deon menunjukkan **kebingungan, ketidakpercayaan, keterkejutan, dan ketakutan yang tertahan**.
 
-Gunakan perspektif sinematik dari posisi sedikit rendah, seolah kamera berada beberapa meter di depannya.
+Ekspresinya bukan ekspresi seorang pahlawan.
 
-Fokus utama berada pada Deon, tetapi lingkungan di sekitarnya harus tetap terlihat jelas sehingga pembaca memahami bahwa ia **terbangun di tengah kehancuran total**.
+Ia belum memahami apa yang terjadi.
 
-Ekspresinya harus menunjukkan seseorang yang sedang mencoba memahami:
+Ia baru saja mengalami kematian di dunia lain, kemudian membuka mata dalam tubuh yang bukan miliknya.
 
-**“Di mana aku?”**
+Jangan membuatnya tersenyum atau terlihat percaya diri.
 
-lalu secara perlahan menyadari sesuatu yang jauh lebih mengerikan:
+---
 
-**“Ini bukan dunia yang seharusnya.”**
+## EKSPRESI DAN PSIKOLOGI
 
-Jangan menampilkan teks atau dialog dalam gambar.
+Ekspresi wajah harus menjadi salah satu fokus utama.
 
-### LINGKUNGAN
+Tatapan Deon terlihat kosong selama beberapa detik, kemudian perlahan berubah menjadi tatapan penuh kebingungan ketika ia melihat tangannya sendiri.
 
-Lokasi adalah **jalan raya di sebuah kota modern di Bumi tahun 2031**, tetapi kota tersebut telah mengalami kehancuran besar.
+Ekspresinya harus menggambarkan seseorang yang sedang mencoba memahami beberapa pertanyaan sekaligus:
+
+**Di mana aku?**
+
+**Mengapa aku masih hidup?**
+
+**Tubuh siapa ini?**
+
+Dan secara perlahan muncul perasaan yang jauh lebih mengganggu:
+
+**Mengapa tempat ini terasa begitu familiar?**
+
+Jangan menampilkan dialog atau teks di dalam gambar.
+
+---
+
+## LINGKUNGAN
+
+Lokasinya adalah **sebuah jalan raya di kota modern di Bumi tahun 2031**, tetapi kota tersebut telah mengalami kehancuran dalam skala ekstrem.
 
 Di sekeliling Deon terdapat:
 
-* gedung pencakar langit yang runtuh sebagian,
-* gedung perkantoran dengan jendela pecah,
-* apartemen yang rusak,
-* jalan raya penuh retakan,
-* kendaraan yang ditinggalkan dan rusak,
-* lampu lalu lintas yang roboh,
-* tiang listrik yang patah,
-* kabel listrik bergelantungan,
-* papan reklame yang rusak,
-* fasilitas umum yang hancur,
-* pecahan kaca,
-* beton dan logam berserakan,
-* asap tipis,
-* debu yang terbawa angin,
-* dan reruntuhan bangunan di sepanjang jalan.
+* gedung pencakar langit yang runtuh sebagian;
+* gedung perkantoran dengan jendela-jendela pecah;
+* apartemen yang rusak;
+* jalan raya penuh retakan;
+* kendaraan yang ditinggalkan;
+* kendaraan yang tertabrak atau tertimpa reruntuhan;
+* lampu lalu lintas yang roboh;
+* tiang listrik yang patah;
+* kabel listrik yang bergelantungan;
+* papan reklame yang rusak;
+* halte dan fasilitas umum yang hancur;
+* pecahan kaca;
+* potongan beton;
+* logam bengkok;
+* reruntuhan bangunan;
+* debu yang beterbangan;
+* asap tipis di antara gedung;
+* dan berbagai tanda bahwa kehidupan manusia telah berhenti secara mendadak.
 
-Jangan membuat kota terlihat seperti perang modern biasa. Kehancurannya harus terasa **lebih besar, lebih asing, dan lebih tidak masuk akal**, seolah sebuah peradaban telah dihantam oleh sesuatu yang tidak mampu dipahami manusia.
+Kehancuran harus terasa seperti akibat **bencana global yang jauh lebih besar daripada perang biasa**.
 
-### MONSTER
+Jangan membuat lingkungan terlihat seperti kota perang generik.
 
-Di kejauhan dan di berbagai lapisan lingkungan, tampilkan **keberadaan monster tanpa menjadikan mereka fokus utama**.
+Buat kota tersebut terasa seperti sebuah peradaban modern yang benar-benar telah runtuh.
 
-Di langit, terdapat beberapa makhluk besar yang terbang di antara gedung-gedung yang hancur. Siluet mereka terlihat jelas tetapi detail tubuhnya sebagian tertutup awan, kabut, dan asap.
+---
 
-Di permukaan tanah, jauh di belakang Deon, terlihat bayangan makhluk yang bergerak di antara reruntuhan.
+## MONSTER DI SEKITAR DEON
 
-Pada salah satu bagian jalan, terdapat tanda bahwa sesuatu yang besar baru saja bergerak dari bawah tanah: retakan panjang pada aspal, tanah yang terangkat, dan reruntuhan yang terdorong ke samping.
+Deon berada di lokasi yang **sangat dekat dengan keberadaan monster**.
 
-Jangan membuat monster terlihat seperti naga, zombie, alien generik, atau makhluk dari franchise lain. Buat desain mereka **orisinal, mengerikan, tidak manusiawi, dan sulit dikenali**.
+Monster harus terlihat di berbagai arah, tetapi jangan menjadikan mereka sebagai fokus utama gambar.
 
-Monster tidak perlu menyerang Deon pada saat ini. Kehadiran mereka harus menciptakan perasaan bahwa **ia berada sangat dekat dengan sesuatu yang dapat membunuhnya kapan saja**.
+### Langit
 
-### ATMOSFER
+Di antara gedung-gedung yang hancur terdapat beberapa **makhluk besar yang terbang**.
 
-Suasana harus sangat sunyi meskipun dunia berada dalam kondisi kehancuran.
+Sebagian terlihat sebagai siluet di balik awan dan asap, sementara sebagian lainnya terlihat lebih jelas di kejauhan.
+
+Ukuran mereka harus terasa jauh lebih besar daripada manusia.
+
+### Permukaan tanah
+
+Di antara reruntuhan bangunan terdapat **makhluk-makhluk misterius** yang bergerak perlahan atau berdiam diri.
+
+Jangan membuat semuanya terlihat jelas. Sebagian harus tertutup kabut, reruntuhan, atau bayangan.
+
+### Bawah tanah
+
+Jalan di sekitar Deon memiliki **retakan besar dan tidak alami** yang menunjukkan bahwa sesuatu bergerak di bawah permukaan.
+
+Beberapa bagian aspal terlihat terangkat.
+
+Debu dan pecahan beton masih berjatuhan.
+
+Hal tersebut memberikan kesan bahwa **monster bawah tanah dapat muncul kapan saja**.
+
+### Arah belakang
+
+Di kejauhan, di antara kendaraan dan bangunan yang runtuh, terdapat siluet makhluk lain yang hampir tidak terlihat.
+
+Penonton harus merasa bahwa Deon **tidak sendirian**.
+
+---
+
+## DESAIN MONSTER
+
+Monster harus terlihat:
+
+* orisinal;
+* tidak manusiawi;
+* mengancam;
+* asing;
+* sulit diklasifikasikan;
+* memiliki bentuk biologis yang tidak biasa;
+* tidak menyerupai monster dari franchise populer.
+
+Jangan membuat monster seperti naga klasik, zombie, vampir, werewolf, atau alien generik.
+
+Monster harus terasa seperti **makhluk yang benar-benar berasal dari dunia lain**, tetapi tetap memiliki desain biologis yang masuk akal secara visual.
+
+Jangan menggunakan gore eksplisit.
+
+Ancaman harus dibangun melalui bentuk, ukuran, siluet, dan atmosfer.
+
+---
+
+## KOMPOSISI
+
+Gunakan **komposisi sinematik dengan depth of field yang kuat**.
+
+Deon berada di foreground atau midground dan menjadi fokus utama.
+
+Jalan raya membentuk garis perspektif yang membawa mata penonton menuju bagian tengah kota.
+
+Gedung-gedung yang runtuh membentuk framing alami di kedua sisi.
+
+Monster terbang berada di bagian atas frame.
+
+Monster darat dan reruntuhan berada di bagian tengah dan belakang.
+
+Retakan jalan dan indikasi monster bawah tanah berada di foreground.
+
+Dengan demikian, satu gambar memperlihatkan:
+
+**manusia → kota hancur → monster → langit yang tidak normal.**
+
+Gunakan perspektif sedikit rendah, seolah kamera berada beberapa meter dari Deon.
+
+---
+
+## ATMOSFER
+
+Suasana harus terasa **sunyi, asing, menekan, dan mengancam**.
 
 Tidak ada kerumunan manusia.
 
-Tidak ada kendaraan yang bergerak.
+Tidak ada kendaraan bergerak.
 
-Tidak ada kota yang berfungsi.
+Tidak ada kehidupan kota yang normal.
 
-Hanya suara visual dari angin, debu, reruntuhan, dan keberadaan makhluk-makhluk yang tidak terlihat sepenuhnya.
+Hanya:
 
-Langit sangat gelap dengan awan tebal dan cahaya redup dari matahari yang tertutup asap.
+* angin;
+* debu;
+* asap;
+* reruntuhan;
+* bayangan monster;
+* dan suara dunia yang seolah telah kehilangan kehidupan.
 
-Gunakan atmosfer **post-apocalyptic, lonely, ominous, mysterious, psychological horror**.
+Langit dipenuhi awan gelap dan tebal.
 
-### ELEMEN METAFICTION
-
-Tambahkan unsur metafiction secara **sangat halus**.
-
-Di udara sekitar Deon terdapat beberapa partikel kecil menyerupai serpihan kertas atau tinta yang perlahan terurai menjadi cahaya. Jangan membuatnya terlalu jelas.
-
-Sebagian kecil bangunan di kejauhan dapat memiliki efek visual yang sangat samar seperti realitas sedang mengalami distorsi, seolah-olah dunia tersebut merupakan sesuatu yang pernah ditulis dan sekarang menjadi nyata.
-
-Namun efek tersebut harus cukup subtil sehingga pada pandangan pertama tetap terlihat seperti dunia nyata.
-
-### KESAN VISUAL
-
-Gambar harus menyampaikan tiga hal sekaligus:
-
-1. **Seorang manusia baru saja mendapatkan kehidupan kedua.**
-2. **Ia tidak tahu bagaimana ia sampai di sana.**
-3. **Ia sebenarnya sedang berdiri di dalam dunia yang pernah ia ciptakan sendiri.**
-
-Jangan menjelaskan konsep tersebut melalui teks. Semua informasi harus disampaikan melalui ekspresi karakter, lingkungan, komposisi, pencahayaan, dan atmosfer.
-
-### GAYA
+Cahaya matahari sangat redup karena tertutup debu dan atmosfer pasca-bencana.
 
 Gunakan:
 
-**cinematic realism, photorealistic environment, realistic human anatomy, post-apocalyptic urban environment, psychological horror atmosphere, dark science fiction, subtle supernatural elements, cinematic composition, volumetric lighting, atmospheric perspective, realistic debris, realistic destruction, highly detailed environment, dramatic lighting, shallow depth of field, professional concept art, high-end cinematic still.**
+**dark cinematic atmosphere, psychological horror, post-apocalyptic isolation, existential mystery, oppressive silence.**
 
-Palet warna dominan **abu-abu gelap, hitam, biru dingin, putih kusam, dan sedikit warna merah gelap sebagai aksen**.
+---
 
-Hindari warna neon berlebihan.
+## UNSUR METAFICTION
 
-### AKURASI
+Tambahkan elemen metafiction secara **sangat subtil dan elegan**.
+
+Di sekitar Deon terdapat beberapa partikel kecil yang terlihat seperti:
+
+* serpihan kertas;
+* fragmen halaman;
+* tinta yang terurai;
+* atau potongan tulisan yang berubah menjadi partikel cahaya.
+
+Jangan membuatnya terlihat seperti sihir.
+
+Efeknya harus sangat halus sehingga penonton pada pandangan pertama mungkin mengira itu hanyalah debu.
+
+Di beberapa bagian kejauhan, berikan sedikit **distorsi realitas**, seolah dunia sedang mengalami gangguan visual yang sangat kecil.
+
+Jangan membuat dunia terlihat seperti simulasi komputer.
+
+Jangan menggunakan hologram atau antarmuka digital pada tahap ini.
+
+Metafiction harus terasa sebagai **petunjuk tersembunyi**, bukan penjelasan langsung.
+
+---
+
+## SIMBOL KEHIDUPAN KEDUA
+
+Secara visual, Deon harus tampak seperti seseorang yang baru mendapatkan kehidupan kedua tetapi belum menyadarinya.
+
+Tidak ada aura pahlawan.
+
+Tidak ada pose kemenangan.
+
+Tidak ada senjata yang diangkat.
+
+Tidak ada ekspresi percaya diri.
+
+Ia hanya seorang pria berusia 21 tahun yang **baru saja membuka mata di dunia yang seharusnya hanya ada di dalam sebuah novel.**
+
+---
+
+## WARNA
+
+Gunakan palet warna:
+
+* hitam;
+* abu-abu;
+* biru gelap;
+* putih kusam;
+* sedikit warna cokelat dari debu dan reruntuhan;
+* sedikit aksen merah gelap dari lingkungan.
+
+Pencahayaan utama berasal dari cahaya alami yang redup dari langit.
+
+Gunakan **cold cinematic lighting**, volumetric lighting, atmospheric perspective, realistic shadows, subtle rim lighting.
+
+Jangan menggunakan warna neon.
+
+Jangan membuat gambar terlalu terang.
+
+---
+
+## GAYA VISUAL
+
+Gunakan:
+
+**cinematic realism, photorealistic environment, realistic human anatomy, realistic adult male, post-apocalyptic urban environment, psychological horror, dark science fiction, subtle supernatural elements, metafictional atmosphere, cinematic composition, volumetric lighting, atmospheric perspective, realistic destruction, realistic debris, high environmental detail, professional concept art, high-end cinematic still, dramatic depth of field.**
+
+Hasilnya harus terasa seperti **satu frame dari film psychological post-apocalyptic berkualitas tinggi**, bukan poster game dan bukan ilustrasi anime.
+
+---
+
+## AKURASI
 
 Pastikan:
 
-* hanya satu karakter manusia utama yang menjadi fokus;
-* usia karakter terlihat sekitar 15 tahun;
+* Deon terlihat jelas sebagai pria berusia **21 tahun**;
 * anatomi manusia realistis;
+* proporsi tubuh normal;
+* wajah tidak terdistorsi;
+* mata simetris;
 * tangan dan jari normal;
 * tidak ada anggota tubuh tambahan;
-* wajah tidak terdistorsi;
-* proporsi tubuh realistis;
-* perspektif bangunan konsisten;
-* kendaraan dan fasilitas terasa berasal dari Bumi tahun 2031;
+* pakaian realistis;
+* bangunan memiliki perspektif yang benar;
+* kendaraan terlihat berasal dari dunia modern tahun 2031;
 * kehancuran terlihat realistis;
 * monster memiliki desain orisinal;
-* tidak ada logo atau franchise lain;
-* tidak ada teks acak;
+* tidak ada karakter dari franchise lain;
+* tidak ada logo;
 * tidak ada watermark;
-* tidak ada elemen fantasy medieval;
-* tidak ada estetika anime;
-* tidak ada komedi;
+* tidak ada teks acak;
+* tidak ada dialog;
+* tidak ada unsur komedi;
+* tidak ada gaya anime;
+* tidak ada gaya kartun;
+* tidak ada fantasy medieval;
 * tidak ada gore eksplisit.
 
-### HASIL AKHIR
+---
 
-Hasil akhir harus terlihat seperti **satu frame dari film psychological post-apocalyptic berkualitas tinggi**, bukan poster aksi.
+## INTI ADEGAN
 
-Gambar harus membuat penonton merasakan bahwa mereka sedang melihat **detik pertama kehidupan kedua Theodore sebagai Deon Aster**, ketika ia belum memahami apa yang terjadi dan belum mengetahui bahwa dunia di sekelilingnya adalah dunia yang dahulu ia tulis sendiri.
+Gambarkan **detik pertama Theodore setelah kematiannya di Bumi asli**, ketika kesadarannya telah berpindah ke tubuh **Deon Aster yang berusia 21 tahun**.
 
-**Format:** portrait vertikal, rasio 2:3, resolusi sangat tinggi, detail sinematik, realistic lighting, professional cinematic composition.
+Ia belum memahami bahwa dirinya telah masuk ke dunia yang pernah ia tulis.
+
+Ia belum memahami mengapa tubuhnya berbeda.
+
+Ia belum memahami mengapa dunia di sekitarnya hancur.
+
+Ia hanya tahu satu hal:
+
+**Ia seharusnya sudah mati.**
+
+Dan sekarang ia berdiri di sebuah jalan yang dipenuhi reruntuhan, sementara sesuatu bergerak di antara bangunan, sesuatu terbang di langit, dan sesuatu yang jauh lebih besar bergerak di bawah tanah.
+
+Gambar harus menyampaikan perasaan:
+
+**“Aku sudah mati. Jadi mengapa aku masih hidup?”**
+
+tanpa menampilkan kalimat tersebut sebagai teks.
+
+**Format:** portrait vertikal, rasio 2:3, resolusi sangat tinggi, ultra-detailed, professional cinematic artwork, realistic lighting, realistic environment, cinematic composition.
