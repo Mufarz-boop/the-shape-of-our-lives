@@ -1,8 +1,0 @@
-KELAS 1 [12 Tahun - 13 Tahun] = [2011 - 2010]
-KELAS 2 [13 Tahun - 14 Tahun] = [2010 - 2009]
-KELAS 3 [14 Tahun - 15 Tahun] = [2009 - 2008]
-KELAS 4 [15 Tahun - 16 Tahun] = [2008 - 2007]
-KELAS 5 [16 Tahun - 17 Tahun] = [2007 - 2006]
-KELAS 6 [17 Tahun - 18 Tahun] = [2006 - 2005]
-
-SETTING: 10 JULI 2023

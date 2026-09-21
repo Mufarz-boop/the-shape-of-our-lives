@@ -1,42 +1,8 @@
 GENERASI -3
-   1. Nama: Haji Muhammad Idris [12 April 1918]
-      Pasangan: Halimah [27 September 1926]
-      Anak: 1. Abdul Majid
-      
 GENERASI -2
-   Anak Haji Muhammad Idris dengan Halimah
-      1. Nama: Abdul Majid [18 September 1947]
-         Pasangan: Siti Aminah [06 Februari 1951]
-         Anak: 1. Muhammad Rasyid
-               2. Abdul Wahid
-
 GENERASI -1
-   Anak Abdul Majid dengan Siti Aminah
-      1. Nama: Muhammad Rasyid [12 Mei 1972]
-         Pasangan: Nurhayati [18 September 1974]
-         Anak: 1. Putri Imelda Suryasari
-               2. Adrian Mustafa Al-Farouqi
-               3. Bagas Alfino
-
-      2. Nama: Abdul Wahid [11 Januari 1978]
-         Pasangan: Latifah Husna [26 Maret 1973]
-         Anak: 1. Ammar Zulfikar
-
 GENERASI 0
-   Anak Muhammad Rasyid dengan Nurhayati
-      1. Nama: Putri Imelda Suryasari [16 Juni 2005]
-         Pasangan: 
-         Anak: 
-
-      2. Nama: Adrian Mustafa Al-Farouqi [27 Oktober 2009] [2]
-         Pasangan: 
-         Anak: 
-
-      3. Nama: Bagas Alfino [11 Mei 2011] [1]
-         Pasangan: 
-         Anak: 
-
-   Anak Abdul Wahid dengan Latifah Husna
-      1. Nama: Ammar Zulfikar [14 Oktober 2006] [5]
+   Anak
+      1. Nama: Bagas Alfino
          Pasangan: 
          Anak: 
