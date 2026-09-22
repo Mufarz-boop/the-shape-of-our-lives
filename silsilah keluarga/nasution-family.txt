@@ -3,10 +3,45 @@ NASUTION FAMILY
 GENERASI -3
    1. Nama: 
       Pasangan: 
-      Anak: 
+      Anak: 1. 
       
 GENERASI -2
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+               4. 
+               5. 
+
 GENERASI -1
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+               4. 
+
+      4. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
+      5. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
 GENERASI 0
    Anak
       1. Nama: Shanaya Putri Lianna Nasution
@@ -14,5 +49,41 @@ GENERASI 0
          Anak: 
 
       2. Nama: Nadira Margaura Beatrice Nasution
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 
+
+      4. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
          Pasangan: 
          Anak: 

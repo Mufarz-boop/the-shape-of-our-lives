@@ -3,12 +3,122 @@ DEVENDRA FAMILY
 GENERASI -3
    1. Nama: 
       Pasangan: 
-      Anak: 
+      Anak: 1. 
+            2. 
+            3. 
       
 GENERASI -2
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+               4. 
+               5. 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
 GENERASI -1
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
+      4. Nama: 
+         Pasangan: 
+         Anak: 
+
+      5. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
 GENERASI 0
-    Anak
-        1. Nama: Navya Mercedes Devendra
-           Pasangan: 
-           Anak: 
+   Anak
+      1. Nama: Navya Mercedes Devendra
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 

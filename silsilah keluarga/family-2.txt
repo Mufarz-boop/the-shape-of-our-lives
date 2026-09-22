@@ -1,8 +1,47 @@
 GENERASI -3
+   1. Nama: 
+      Pasangan: 
+      Anak: 1. 
+
 GENERASI -2
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+
 GENERASI -1
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
 GENERASI 0
    Anak
-      1. Nama: Bagas Alfino
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Bagas Alfino
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
          Pasangan: 
          Anak: 

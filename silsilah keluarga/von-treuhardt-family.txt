@@ -3,36 +3,92 @@ von TREUHARDT FAMILY
 GENERASI -3
    1. Nama: 
       Pasangan: 
-      Anak: 
+      Anak: 1. 
       
 GENERASI -2
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+               4. 
+
 GENERASI -1
-    Anak
-        1. Nama: Zheron von Treuhardt
-        Pasangan: Vannessa Charlotte Viktoria von Treuhardt
-        Anak: 1. Deon Alexander von Treuhardt
-              2. Lusy Adelheid von Treuhardt
-              3. Vegis Konstantin von Treuhardt
-              4. Eleonore Margareth von Treuhardt
-              5. Vivienna Cillia von Treuhardt
+   Anak
+      1. Nama: Zheron von Treuhardt
+         Pasangan: Vannessa Charlotte Viktoria von Treuhardt
+         Anak: 1. Deon Alexander von Treuhardt
+               2. Lusy Adelheid von Treuhardt
+               3. Vegis Konstantin von Treuhardt
+               4. Eleonore Margareth von Treuhardt
+               5. Vivienna Cillia von Treuhardt
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+               4. 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
+      4. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
 GENERASI 0
-    Anak Zheron von Treuhardt Vannessa Charlotte Viktoria von Treuhardt
-        1. Nama: Deon Alexander von Treuhardt
-           Pasangan: 
-           Anak: 
+   Anak Zheron von Treuhardt Vannessa Charlotte Viktoria von Treuhardt
+      1. Nama: Deon Alexander von Treuhardt
+         Pasangan: 
+         Anak: 
 
-        2. Nama: Lusy Adelheid von Treuhardt
-           Pasangan: 
-           Anak: 
+      2. Nama: Lusy Adelheid von Treuhardt
+         Pasangan: 
+         Anak: 
 
-        3. Nama: Vegis Konstantin von Treuhardt
-           Pasangan: 
-           Anak: 
+      3. Nama: Vegis Konstantin von Treuhardt
+         Pasangan: 
+         Anak: 
 
-        4. Nama: Eleonore Margareth von Treuhardt
-           Pasangan: 
-           Anak: 
+      4. Nama: Eleonore Margareth von Treuhardt
+         Pasangan: 
+         Anak: 
 
-        5. Nama: Vivienna Cillia von Treuhardt
-           Pasangan: 
-           Anak: 
+      5. Nama: Vivienna Cillia von Treuhardt
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 
+
+      4. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 

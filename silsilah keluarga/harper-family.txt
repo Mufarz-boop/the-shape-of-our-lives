@@ -3,12 +3,37 @@ HARPER FAMILY
 GENERASI -3
    1. Nama: 
       Pasangan: 
-      Anak: 
+      Anak: 1. 
       
 GENERASI -2
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+               3. 
+
 GENERASI -1
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 
+
+      3. Nama: 
+         Pasangan: 
+         Anak: 
+
 GENERASI 0
-    Anak
-        1. Nama: Ganeeta Harper
-           Pasangan: 
-           Anak: 
+   Anak
+      1. Nama: Ganeeta Harper
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 

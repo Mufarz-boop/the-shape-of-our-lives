@@ -3,16 +3,37 @@ BERLONSKY FAMILY
 GENERASI -3
    1. Nama: 
       Pasangan: 
-      Anak: 
+      Anak: 1. 
       
 GENERASI -2
-GENERASI -1
-GENERASI 0
-    Anak
-        1. Nama: Eleonore Mikhailovna Berlonsky
-           Pasangan: 
-           Anak: 
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
 
-        2. Nama: Dimitri Mikhailovich Berlonsky
-           Pasangan: 
-           Anak: 
+GENERASI -1
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 1. 
+               2. 
+
+      2. Nama: 
+         Pasangan: 
+         Anak: 1. 
+
+GENERASI 0
+   Anak
+      1. Nama: Dimitri Mikhailovich Berlonsky
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Leonore Mikhailovna Berlonsky
+         Pasangan: 
+         Anak: 
+
+   Anak
+      1. Nama: 
+         Pasangan: 
+         Anak: 
