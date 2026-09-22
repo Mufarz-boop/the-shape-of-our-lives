@@ -32,11 +32,11 @@ GENERASI -1
 
       3. Nama: 
          Pasangan: 
-         Anak: 1. 
+         Anak: 1. Maira Husna Firnansyah
                2. Afdal Adha Firnansyah
-               3. 
-               4. 
-               5. 
+               3. Yumna Maliqa Firnansyah
+               4. Harsha Balqis Firnansyah
+               5. Aisyah Hana Qanita Putri Syafira Firnansyah
 
    Anak
       1. Nama: 
@@ -61,7 +61,7 @@ GENERASI 0
          Anak: 
 
    Anak
-      1. Nama: 
+      1. Nama: Maira Husna Firnansyah
          Pasangan: 
          Anak: 
 
@@ -69,15 +69,15 @@ GENERASI 0
          Pasangan: 
          Anak: 
 
-      3. Nama: 
+      3. Nama: Yumna Maliqa Firnansyah
          Pasangan: 
          Anak: 
 
-      4. Nama: 
+      4. Nama: Harsha Balqis Firnansyah
          Pasangan: 
          Anak: 
 
-      5. Nama: 
+      5. Nama: Aisyah Hana Qanita Putri Syafira Firnansyah
          Pasangan: 
          Anak: 
 
