@@ -31,7 +31,8 @@ GENERASI -1
    Anak
       1. Nama: 
          Pasangan: 
-         Anak: 1. 
+         Anak: 1. Navya Mercedes Devendra
+               2. 
 
       2. Nama: 
          Pasangan: 
@@ -75,6 +76,10 @@ GENERASI -1
 GENERASI 0
    Anak
       1. Nama: Navya Mercedes Devendra
+         Pasangan: 
+         Anak: 
+
+      2. Nama: 
          Pasangan: 
          Anak: 
 

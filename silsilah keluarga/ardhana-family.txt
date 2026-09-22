@@ -37,9 +37,9 @@ GENERASI -1
    Anak
       1. Nama: 
          Pasangan: 
-         Anak: 1. 
-               2. 
-               3. 
+         Anak: 1. Auster Ferdinand Ardhana
+               2. Marius Evander Ardhana
+               3. Hadrian Ferdinand Ardhana
 
       2. Nama: 
          Pasangan: 

@@ -16,8 +16,8 @@ GENERASI -2
 
 GENERASI -1
    Anak
-      1. Nama: Zheron von Treuhardt
-         Pasangan: Vannessa Charlotte Viktoria von Treuhardt
+      1. Nama: 
+         Pasangan: 
          Anak: 1. Deon Alexander von Treuhardt
                2. Lusy Adelheid von Treuhardt
                3. Vegis Konstantin von Treuhardt
@@ -26,8 +26,8 @@ GENERASI -1
 
       2. Nama: 
          Pasangan: 
-         Anak: 1. 
-               2. 
+         Anak: 1. Zheron von Treuhardt
+               2. Vannessa Charlotte Viktoria von Treuhardt
                3. 
                4. 
 

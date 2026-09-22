@@ -25,7 +25,7 @@ GENERASI -1
    Anak
       1. Nama: 
          Pasangan: 
-         Anak: 1. 
+         Anak: 1. Anastasia Aveline Blezensky
                2. 
                3. 
 
@@ -66,6 +66,10 @@ GENERASI 0
          Anak: 
 
       2. Nama: 
+         Pasangan: 
+         Anak: 
+
+      3. Nama: 
          Pasangan: 
          Anak: 
 
