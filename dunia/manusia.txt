@@ -1,0 +1,29 @@
+JENIS-JENIS MANUSIA
+    Mortal Human
+        Lesser Human
+        Lower Human
+        Common Human
+        Super Human
+        Mid Human
+        High Human
+        Great Human
+        Grand Human
+        Perfect Human
+
+    Immortal Human
+        Wheel of Fortune Human
+        Falsehood Human
+        Fiction Human
+        Interpretation Human
+        Mystery Human
+        Darkness Human
+        Death Human
+        Faceless Human
+        Sun Human
+        Moon Human
+        Error Human
+        Angel Human
+        God Human
+        Ancient Human
+        Primordial Human
+        Origin Human
