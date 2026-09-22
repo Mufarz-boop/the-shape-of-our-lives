@@ -32,16 +32,16 @@ GENERASI -1
     Anak
         1. Nama: 
            Pasangan: 
-           Anak: 1. 
+           Anak: 1. Fauzan Mubashshir
 
         2. Nama: 
            Pasangan: 
            Anak: 1. 
-                 2. 
+                 2. Hakim Rajendra Putra
 
         3. Nama: 
            Pasangan: 
-           Anak: 1. 
+           Anak: 1. Eligos Zepar
 
 GENERASI 0
     Anak
@@ -58,7 +58,7 @@ GENERASI 0
            Anak: 
 
     Anak
-        1. Nama: 
+        1. Nama: Fauzan Mubashshir
            Pasangan: 
            Anak: 
 
@@ -67,11 +67,11 @@ GENERASI 0
            Pasangan: 
            Anak: 
 
-        2. Nama: 
+        2. Nama: Hakim Rajendra Putra
            Pasangan: 
            Anak: 
 
     Anak
-        1. Nama: 
+        1. Nama: Eligos Zepar
            Pasangan: 
            Anak: 

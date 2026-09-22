@@ -24,7 +24,7 @@ GENERASI -1
 
       3. Nama: 
          Pasangan: 
-         Anak: 1. 
+         Anak: 1. Naufal Ataullah
                2. 
 
 GENERASI 0
@@ -38,7 +38,7 @@ GENERASI 0
          Anak: 
 
    Anak
-      1. Nama: 
+      1. Nama: Naufal Ataullah
          Pasangan: 
          Anak: 
 

@@ -23,7 +23,7 @@ GENERASI -1
          Anak: 1. 
                2. 
                3. Zarina Nura
-               4. 
+               4. Fathin Petricus
                5. 
 
       2. Nama: 
@@ -51,7 +51,7 @@ GENERASI 0
          Pasangan: 
          Anak: 
 
-      4. Nama: 
+      4. Nama: Fathin Petricus
          Pasangan: 
          Anak: 
 
