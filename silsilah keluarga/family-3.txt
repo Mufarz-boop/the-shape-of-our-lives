@@ -28,7 +28,7 @@ GENERASI -1
          Anak: 1. 
                2. Masrur Qamar
                3. 
-               4. Solomon Andromalius
+               4. 
 
 GENERASI 0
    Anak
@@ -62,6 +62,6 @@ GENERASI 0
          Pasangan: 
          Anak: 
 
-      4. Nama: Solomon Andromalius
+      4. Nama: 
          Pasangan: 
          Anak: 
