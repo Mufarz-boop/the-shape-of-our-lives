@@ -1,0 +1,78 @@
+AMERIKA UTARA
+    1. Republik Rakyat Kanada
+    2. Amerika Serikat
+    3. Republik Averian
+    4. Republik San Rhudan
+    5. Republik Akiraguva
+    6. Republik Aztecian
+
+AMERIKA SELATAN
+    1. Federasi Vinedia
+    2. Republik Suci Thetus
+    3. Republik Hutabarat
+    4. Republik Kithezan
+
+OSEANIA
+    1. Kekaisaran Kepulauan Oseania
+
+AUSTRALIA
+    1. Kekaisaran Australia
+
+EROPA
+    1. Kekaisaran Britania Raya
+    2. Kerajaan Denmark
+    3. Republik Federal Jerman
+    4. Republik Luksemburg
+    5. Kerajaan Liechtenstein
+    6. Kekaisaran Romawi Baru
+    7. Republik Makedonia Baru
+    8. Kerajaan Belanda Raya
+    9. Republik San Marino
+    10. Kekaisaran Rusia
+    11. Konfederasi Swiss
+    12. Republik Ukraina
+    13. Republik Norwegia
+    14. Kerajaan Seljuk Barat
+
+ASIA
+    1. Keamiran Islam Afghanistan
+    2. Kerajaan Arab Saudi Baru
+    3. Republik Ganimea
+    4. Republik Rakyat Anglodean
+    5. Republik Rakyat Tiongkok
+    6. Kekaisaran Qin
+    7. Kekaisaran Apanisha
+    8. Republik Islam Iran
+    9. Republik Korea Baru
+    10. Kekaisaran Jepang
+    11. Federasi Malaysia
+    12. Kesultanan Osimiria
+    13. Negara Palestina Baru
+    14. Kekaisaran Singapura
+    15. Negara Kepulauan Indonesia
+    16. Republik Venerion
+    17. Kerajaan Hyperion
+
+ANTARTIKA
+    1. Kekaisaran Clonevus Agung
+    2. Kerajaan Maramuda
+    3. Kerajaan Alterisha
+    4. Kerajaan Leshinta
+    5. Kerajaan Meritokrasi Vidyanika
+    6. Kerajaan Solomon Suci
+    7. Kerajaan Venethal
+
+AFRIKA
+    1. Republik Afrika Selatan
+    2. Republik Rakyat Afrika Tengah
+    3. Republik Afrika Timur
+    4. Republik Afrika Barat
+    5. Republik Afrika Utara
+    6. Kerajaan Tzalnir
+    7. Persemakmuran Sevandia
+    8. Federasi Athion
+    9. Kekaisaran Mesir Baru
+    10. Negara Mesopotamia Baru
+    11. Kerajaan Galhard
+    12. Republik Demokratik Hanrian
+    13. Kerajaan Merziah
