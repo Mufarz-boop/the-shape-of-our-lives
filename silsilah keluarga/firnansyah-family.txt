@@ -1,36 +1,36 @@
 FIRNANSYAH FAMILY
 
 GENERASI -3
-   1. Nama: 
-      Pasangan: 
-      Anak: 1. 
+   1. Nama: Raden Arya Wiranegara Firnansyah [21 Maret]
+      Pasangan: Dewi Anggraini Kusumawardani [09 Juli]
+      Anak: 1. Wiratama Adiprana Firnansyah
             2. 
       
 GENERASI -2
-   Anak
-      1. Nama: 
-         Pasangan: 
-         Anak: 1. 
-               2. 
-               3. 
+   Anak Raden Arya Wiranegara Firnansyah dengan Dewi Anggraini Kusumawardani
+      1. Nama: Wiratama Adiprana Firnansyah [07 April]
+         Pasangan: Sekar Ayuningtyas Maheswari [11 Juni]
+         Anak: 1. Ratna Kirana Firnansyah
+               2. Nadira Safitri Firnansyah
+               3. Rangga Adiwangsa Firnansyah
 
-      2. Nama: 
-         Pasangan: 
-         Anak: 1. 
-               2. 
-               3. 
+      2. Nama: Ratih Anggraini [19 September]
+         Pasangan: Bramantyo Wirasatya Adinata [06 Mei]
+         Anak: 1. Ardhana Bramasta Adinata
+               2. Anindya Kirana Adinata
+               3. Mahendra Satya Adinata
 
 GENERASI -1
-   Anak
-      1. Nama: 
-         Pasangan: 
-         Anak: 1. 
+   Anak Wiratama Adiprana Firnansyah dengan Sekar Ayuningtyas Maheswari
+      1. Nama: Ratna Kirana Firnansyah [23 Februari]
+         Pasangan: Adrian Mahesa Pratama [08 Oktober]
+         Anak: 1. Rafael Adrian Pratama
 
-      2. Nama: 
+      2. Nama: Nadira Safitri Firnansyah [29 September]
          Pasangan: 
          Anak: 
 
-      3. Nama: 
+      3. Nama: Rangga Adiwangsa Firnansyah [17 Februari]
          Pasangan: 
          Anak: 1. Maira Husna Firnansyah
                2. Afdal Adha Firnansyah
@@ -38,30 +38,30 @@ GENERASI -1
                4. Harsha Balqis Firnansyah
                5. Aisyah Hana Qanita Putri Syafira Firnansyah
 
-   Anak
-      1. Nama: 
-         Pasangan: 
-         Anak: 1. 
-               2. 
+   Anak Ratih Anggraini Firnansyah dengan Bramantyo Wirasatya Adinata
+      1. Nama: Ardhana Bramasta Adinata [14 Agustus]
+         Pasangan: Citra Maharani Wicaksono [22 April]
+         Anak: 1. Alessie Kirana Adinata
+               2. Naura Alesha Adinata
 
-      2. Nama: 
-         Pasangan: 
-         Anak: 1. 
+      2. Nama: Anindya Kirana Adinata [27 November]
+         Pasangan: Dimas Arya Wicaksono [12 Desember]
+         Anak: 1. Aurelia Nadhira Wicaksono
 
-      3. Nama: 
-         Pasangan: 
-         Anak: 1. 
-               2. 
-               3. 
+      3. Nama: Mahendra Satya Adinata [09 Januari]
+         Pasangan: Larissa Puspita Wardani [25 Agustus]
+         Anak: 1. Calista Anindya Adinata
+               2. Rafael Mahendra Adinata
+               3. Alvaro Satya Adinata
 
 GENERASI 0
-   Anak
-      1. Nama: 
+   Anak Ratna Kirana Firnansyah dengan Adrian Mahesa Pratama
+      1. Nama: Rafael Adrian Pratama [16 Juni]
          Pasangan: 
          Anak: 
 
-   Anak
-      1. Nama: Maira Husna Firnansyah
+   Anak Rangga Adiwangsa Firnansyah dengan Nadira Safitri Firnansyah
+      1. Nama: Maira Husna Firnansyah [12 Mei]
          Pasangan: 
          Anak: 
 
@@ -69,41 +69,41 @@ GENERASI 0
          Pasangan: 
          Anak: 
 
-      3. Nama: Yumna Maliqa Firnansyah
+      3. Nama: Yumna Maliqa Firnansyah [08 Agustus]
          Pasangan: 
          Anak: 
 
-      4. Nama: Harsha Balqis Firnansyah
+      4. Nama: Harsha Balqis Firnansyah [21 Januari]
          Pasangan: 
          Anak: 
 
-      5. Nama: Aisyah Hana Qanita Putri Syafira Firnansyah
+      5. Nama: Aisyah Hana Qanita Putri Syafira Firnansyah [03 November]
          Pasangan: 
          Anak: 
 
-   Anak
-      1. Nama: 
+   Anak Ardhana Bramasta Adinata dengan Citra Maharani Wicaksono
+      1. Nama: Alessie Kirana Adinata [05 Maret]
          Pasangan: 
          Anak: 
 
-      2. Nama: 
+      2. Nama: Naura Alesha Adinata [18 Juli]
          Pasangan: 
          Anak: 
 
-   Anak
-      1. Nama: 
+   Anak Anindya Kirana Adinata dengan Dimas Arya Wicaksono
+      1. Nama: Aurelia Nadhira Wicaksono [07 Mei]
          Pasangan: 
          Anak: 
 
-   Anak
-      1. Nama: 
+   Anak Mahendra Satya Adinata dengan Larissa Puspita Wardhani
+      1. Nama: Calista Anindya Adinata [13 April]
          Pasangan: 
          Anak: 
 
-      2. Nama: 
+      2. Nama: Rafael Mahendra Adinata [30 September]
          Pasangan: 
          Anak: 
 
-      3. Nama: 
+      3. Nama: Alvaro Satya Adinata [06 Februari]
          Pasangan: 
          Anak: 
