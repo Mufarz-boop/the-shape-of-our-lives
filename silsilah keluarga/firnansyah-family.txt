@@ -31,7 +31,7 @@ GENERASI -1
          Anak: 
 
       3. Nama: Rangga Adiwangsa Firnansyah [17 Februari]
-         Pasangan: 
+         Pasangan: Fitriani Hamdani Prameswari [24 Juli]
          Anak: 1. Maira Husna Firnansyah
                2. Afdal Adha Firnansyah
                3. Yumna Maliqa Firnansyah
@@ -41,7 +41,7 @@ GENERASI -1
    Anak Ratih Anggraini Firnansyah dengan Bramantyo Wirasatya Adinata
       1. Nama: Ardhana Bramasta Adinata [14 Agustus]
          Pasangan: Citra Maharani Wicaksono [22 April]
-         Anak: 1. Alessie Kirana Adinata
+         Anak: 1. Alessia Kirana Adinata
                2. Naura Alesha Adinata
 
       2. Nama: Anindya Kirana Adinata [27 November]
@@ -60,7 +60,7 @@ GENERASI 0
          Pasangan: 
          Anak: 
 
-   Anak Rangga Adiwangsa Firnansyah dengan Nadira Safitri Firnansyah
+   Anak Rangga Adiwangsa Firnansyah dengan Fitriani Hamdani Prameswari
       1. Nama: Maira Husna Firnansyah [12 Mei]
          Pasangan: 
          Anak: 
@@ -82,7 +82,7 @@ GENERASI 0
          Anak: 
 
    Anak Ardhana Bramasta Adinata dengan Citra Maharani Wicaksono
-      1. Nama: Alessie Kirana Adinata [05 Maret]
+      1. Nama: Alessia Kirana Adinata [05 Maret]
          Pasangan: 
          Anak: 
 
@@ -95,7 +95,7 @@ GENERASI 0
          Pasangan: 
          Anak: 
 
-   Anak Mahendra Satya Adinata dengan Larissa Puspita Wardhani
+   Anak Mahendra Satya Adinata dengan Larissa Puspita Wardani
       1. Nama: Calista Anindya Adinata [13 April]
          Pasangan: 
          Anak: 
