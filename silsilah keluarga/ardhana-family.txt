@@ -38,7 +38,7 @@ GENERASI -1
       1. Nama: 
          Pasangan: 
          Anak: 1. Auster Ferdinand Ardhana
-               2. Marius Evander Ardhana
+               2. Marius Ferdinand Ardhana
                3. Hadrian Ferdinand Ardhana
 
       2. Nama: 
@@ -70,7 +70,7 @@ GENERASI 0
          Pasangan: 
          Anak: 
 
-      2. Nama: Marius Evander Ardhana
+      2. Nama: Marius Ferdinand Ardhana
          Pasangan: 
          Anak: 
 
