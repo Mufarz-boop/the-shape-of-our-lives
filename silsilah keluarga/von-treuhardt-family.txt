@@ -41,7 +41,7 @@ GENERASI -1
                2. 
 
 GENERASI 0
-   Anak Zheron von Treuhardt Vannessa Charlotte Viktoria von Treuhardt
+   Anak 
       1. Nama: Deon Alexander von Treuhardt
          Pasangan: 
          Anak: 
@@ -58,7 +58,7 @@ GENERASI 0
          Pasangan: 
          Anak: 
 
-      5. Nama: Vivienna Cillia von Treuhardt
+      5. Nama: Vivienna Cillia von Treuhardt [07 Juni]
          Pasangan: 
          Anak: 
 

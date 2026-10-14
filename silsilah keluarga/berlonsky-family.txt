@@ -25,11 +25,11 @@ GENERASI -1
 
 GENERASI 0
    Anak
-      1. Nama: Dimitri Mikhailovich Berlonsky
+      1. Nama: Dimitri Mikhailovich Berlonsky [09 Maret]
          Pasangan: 
          Anak: 
 
-      2. Nama: Leonore Mikhailovna Berlonsky
+      2. Nama: Leonore Mikhailovna Berlonsky [12 Oktober]
          Pasangan: 
          Anak: 
 

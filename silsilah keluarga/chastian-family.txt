@@ -18,11 +18,11 @@ GENERASI -1
       1. Nama: 
          Pasangan: 
          Anak: 1. Theodore Oleandra Chastian
-               2. Rinavya Zoryana Chastian
+               2. 
 
       2. Nama: 
          Pasangan: 
-         Anak: 1. 
+         Anak: 1. Rinavya Zoryana Chastian
 
       3. Nama: 
          Pasangan: 
@@ -30,15 +30,15 @@ GENERASI -1
 
 GENERASI 0
    Anak
-      1. Nama: Theodore Oleandra Chastian
+      1. Nama: Theodore Oleandra Chastian [14 Januari]
          Pasangan: 
          Anak: 
 
-      2. Nama: Rinavya Zoryana Chastian
+      2. Nama: 
          Pasangan: 
          Anak: 
 
    Anak
-      1. Nama: 
+      1. Nama: Rinavya Zoryana Chastian [16 Juli]
          Pasangan: 
          Anak: 
