@@ -1,60 +1,60 @@
 von TREUHARDT FAMILY
 
 GENERASI -3
-   1. Nama: 
-      Pasangan: 
-      Anak: 1. 
+   1. Nama: Heinrich August von Treuhardt [6 Maret]
+      Pasangan: Elisabeth Charlotte von Treuhardt [19 Desember]
+      Anak: 1. Friedrich Wilhelm von Treuhardt
       
 GENERASI -2
-   Anak
-      1. Nama: 
-         Pasangan: 
-         Anak: 1. 
-               2. 
-               3. 
-               4. 
+   Anak Heinrich August von Treuhardt dengan Elisabeth Charlotte von Treuhardt
+      1. Nama: Friedrich Wilhelm von Treuhardt [12 April]
+         Pasangan: Helena Margarethe von Treuhardt [28 Oktober]
+         Anak: 1. Leopold Matthias von Treuhardt
+               2. Adelheid Elisabeth von Treuhardt
+               3. Theresia Charlotte von Treuhardt
+               4. Konrad Friedrich von Treuhardt
 
 GENERASI -1
-   Anak
-      1. Nama: 
-         Pasangan: 
+   Anak Friedrich Wilhelm von Treuhardt dengan Helena Margarethe von Treuhardt
+      1. Nama: Leopold Matthias von Treuhardt [18 Februari]
+         Pasangan: Amalia Cacilia von Treuhardt [23 September]
          Anak: 1. Deon Alexander von Treuhardt
                2. Lusy Adelheid von Treuhardt
                3. Vegis Konstantin von Treuhardt
                4. Eleonore Margareth von Treuhardt
                5. Vivienna Cillia von Treuhardt
 
-      2. Nama: 
-         Pasangan: 
-         Anak: 1. Zheron von Treuhardt
-               2. Vannessa Charlotte Viktoria von Treuhardt
-               3. 
-               4. 
+      2. Nama: Adelheid Elisabeth von Falkenrath {Mengikuti nama keluarga suami setelah menikah} [11 Mei]
+         Pasangan: Maximilian Theodor von Falkenrath [15 Januari]
+         Anak: 1. Charlotte Elisabeth von Falkenrath
+               2. Friedrich Maximilian von Falkenrath
+               3. Helena Adelheid von Falkenrath
+               4. Diana Amalia von Falkenrath
 
-      3. Nama: 
-         Pasangan: 
-         Anak: 1. 
+      3. Nama: Theresia Charlotte von Rosenfeld {Mengikuti nama keluarga suami setelah menikah} [24 Agustus]
+         Pasangan: Alexander Ludwig von Rosenfeld [22 April]
+         Anak: 1. Matthias Alexander von Rosenfeld
 
-      4. Nama: 
-         Pasangan: 
-         Anak: 1. 
-               2. 
+      4. Nama: Konrad Friedrich von Treuhardt [09 Desember]
+         Pasangan: Klara Johanna von Treuhardt [03 November]
+         Anak: 1. Vannessa Charlotte Viktoria von Treuhardt
+               2. Zheron Evander von Treuhardt
 
 GENERASI 0
-   Anak 
-      1. Nama: Deon Alexander von Treuhardt
+   Anak Leopold Matthias von Treuhardt dengan Amalia Cacilia von Treuhardt
+      1. Nama: Deon Alexander von Treuhardt [09 Maret]
          Pasangan: 
          Anak: 
 
-      2. Nama: Lusy Adelheid von Treuhardt
+      2. Nama: Lusy Adelheid von Treuhardt [27 Mei]
          Pasangan: 
          Anak: 
 
-      3. Nama: Vegis Konstantin von Treuhardt
+      3. Nama: Vegis Konstantin von Treuhardt [01 Januari]
          Pasangan: 
          Anak: 
 
-      4. Nama: Eleonore Margareth von Treuhardt
+      4. Nama: Eleonore Margareth von Treuhardt [11 Juni]
          Pasangan: 
          Anak: 
 
@@ -62,33 +62,33 @@ GENERASI 0
          Pasangan: 
          Anak: 
 
-   Anak
-      1. Nama: Zheron von Treuhardt
+   Anak Adelheid Elisabeth von Treuhardt dengan Maximilian Theodor von Falkenrath
+      1. Nama: Charlotte Elisabeth von Falkenrath [30 April]
          Pasangan: 
          Anak: 
 
-      2. Nama: Vannessa Charlotte Viktoria von Treuhardt
+      2. Nama: Friedrich Maximilian von Falkenrath [14 Februari]
          Pasangan: 
          Anak: 
 
-      3. Nama: 
+      3. Nama: Helena Adelheid von Falkenrath [21 Oktober]
          Pasangan: 
          Anak: 
 
-      4. Nama: 
+      4. Nama: Diana Amalia von Falkenrath [16 Juli]
          Pasangan: 
          Anak: 
 
-   Anak
-      1. Nama: 
+   Anak Theresia Charlotte von Treuhardt dengan Alexander Ludwig von Rosenfeld
+      1. Nama: Matthias Alexander von Rosenfeld [5 Mei]
          Pasangan: 
          Anak: 
 
-   Anak
-      1. Nama: 
+   Anak Konrad Friedrich von Treuhardt dengan Klara Johanna von Treuhardt
+      1. Nama: Vannessa Charlotte Viktoria von Treuhardt [28 Desember]
          Pasangan: 
          Anak: 
 
-      2. Nama: 
+      2. Nama: Zheron Evander von Treuhardt [12 April]
          Pasangan: 
          Anak: 
