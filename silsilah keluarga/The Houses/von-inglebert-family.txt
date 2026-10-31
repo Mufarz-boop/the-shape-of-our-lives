@@ -1,6 +1,18 @@
 GENERASI -3
-
+1. Nama: Friedrich Albrecht von Inglebert
+   Pasangan: Adelheid Charlotte von Eberstein
+   Anak: 1. Wilhelm Friedrich Albrecht von Inglebert
+         2. Maximilian August von Inglebert
+   
 GENERASI -2
+    Anak Friedrich Albrecht von Inglbert dengan Adelheid Charlotte von Eberstein
+        1. Nama: Wilhelm Friedrich Albrecht von Inglebert
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Maximilia August von Inglebert
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

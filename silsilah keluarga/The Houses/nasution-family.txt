@@ -1,6 +1,45 @@
 GENERASI -3
-
+1. Nama: Sutan Raja Mangaraja Nasution
+   Pasangan: 1. Siti Rahmah Harahap
+             2. Nurul Kamalia Siregar
+   Anak: 1. Raja Adiluhung Parulian Nasution
+         2. Rania Tiur Rahmah Nasution
+         3. Adiprana Arya Maruli Satyawan Nasution
+         4. Aurelia Romauli Salsabila Nasution
+         5. Kirana Duma Kamalia Nasution
+         6. Nayara Nur Tiur Nasution
+         7. Zahira Kamalia Nasution
+   
 GENERASI -2
+    Anak Sutan Raja Mangaraja Nasution dengan Siti Rahmah Harahap
+        1. Nama: Raja Adiluhung Parulian Nasution
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Rania Tiur Rahmah Nasution
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Adiprana Arya Maruli Satyawan Nasution
+           Pasangan: 
+           Anak: 
+
+        4. Nama: Aurelia Romauli Salsabila Nasution
+           Pasangan: 
+           Anak: 
+
+        5. Nama: Kirana Duma Kamalia Nasution
+           Pasangan: 
+           Anak: 
+
+    Anak Sutan Raja Mangaraja Nasution dengan Nurul Kamalia Siregar
+        1. Nama: Nayara Nur Tiur Nasution
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Zahira Kamalia Nasution
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

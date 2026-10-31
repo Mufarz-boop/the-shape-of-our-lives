@@ -1,6 +1,18 @@
 GENERASI -3
-
+1. Nama: Aleksandr Konstantinovich Berlonsky
+   Pasangan: Anastasiya Mikhailovna Volkova
+   Anak: 1. Nikolai Aleksandrovich Berlonsky
+         2. Dmitri Aleksandrovich Berlonsky
+   
 GENERASI -2
+    Anak Aleksandr Konstantinovich Berlonsky dengan Anastasiya Mikhailovna Volkova
+        1. Nama: Nikolai Aleksandrovich Berlonsky
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Dmitri Aleksandrovich Berlonsky
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

@@ -1,6 +1,23 @@
 GENERASI -3
-
+1. Nama: Raden Arya Wiranegara Firnansyah
+   Pasangan: Raden Ajeng Sekar Arum Kusumawardhani
+   Anak: 1. Dewi Anindyakusuma Firnansyah
+         2. Raden Mahardika Adinata Firnansyah
+         3. Sekar Puspitaningrum Firnansyah
+   
 GENERASI -2
+    Anak Raden Arya Wiranegara Firnansyah dengan Raden Ajeng Sekar Arum Kusumawardhani
+        1. Nama: Dewi Anindyakusuma Firnansyah
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Raden Mahardika Adinata Firnansyah
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Sekar Puspitaningrum Firnansyah
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

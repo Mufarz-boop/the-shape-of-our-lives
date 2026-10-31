@@ -1,6 +1,30 @@
 GENERASI -3
-
+1. Nama: Hamid Zahirruddin Farzan at-Kashmiri
+   Pasangan: 1. Zahra Yasmin bint Farooq
+             2. Maryam Laleh bint Arman
+   Anak: 1. Soraya Yasmin Farzan at-Kashmiri
+         2. Parisa Zahra Farzan at-Kashmiri
+         3. Arman Kian Farzan at-Kashmiri
+         4. Roxana Maryam Farzan at-Kashmiri
+   
 GENERASI -2
+    Anak Hamid Zahirruddin Farzan at-Kashmiri dengan Zahra Yasmin bint Farooq
+        1. Nama: Soraya Yasmin Farzan at-Kashmiri
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Parisa Zahra Farzan at-Kashmiri
+           Pasangan: 
+           Anak: 
+
+    Anak Hamid Zahirruddin Farzan at-Kashmiri dengan Maryam Laleh bint Arman
+        1. Nama: Arman Kian Farzan at-Kashmiri
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Roxana Maryam Farzan at-Kashmiri
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

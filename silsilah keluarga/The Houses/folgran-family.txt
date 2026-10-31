@@ -1,6 +1,30 @@
 GENERASI -3
-
+1. Nama: Edmund Alaric Folgran
+   Pasangan: 1. Cecilia Florence Whitmore
+             2. Beatrice Lenora Sinclair
+   Anak: 1. Evelyn Florence Folgran
+         2. Arabella Lenora Folgran
+         3. Theodore Alaric Folgran
+         4. Sebastian Edmund Folgran
+   
 GENERASI -2
+    Anak Edmund Alaric Folgran dengan Cecilia Florence Whitmore
+        1. Nama: Evelyn Florence Folgran
+           Pasangan: 
+           Anak: 
+
+    Anak Edmund Alaric Folgran dengan Beatrice Lenora Sinclair
+        1. Nama: Arabella Lenora Folgran
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Theodore Alaric Folgran
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Sebastian Edmund Folgran
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

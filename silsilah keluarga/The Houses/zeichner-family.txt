@@ -1,6 +1,13 @@
 GENERASI -3
-
+1. Nama: Leonhard Matthias Zeichner
+   Pasangan: Johanna Elisabeth Weiss
+   Anak: Alexander Leonhard Matthias Zeichner
+   
 GENERASI -2
+    Anak Leonhard Matthias Zeichner dengan Johanna Elisabeth Weiss
+        1. Nama: Alexander Leonhard Matthias Zeichner
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

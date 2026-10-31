@@ -1,6 +1,18 @@
 GENERASI -3
-
+1. Nama: Nikolai Dimtrievich Zorin
+   Pasangan: Yekaterina Aleksandrovna Morozova
+   Anak: 1. Mikhail Nikolayevich Zorin
+         2. Anastasia Nikolayevna Zorin
+   
 GENERASI -2
+    Anak Nikolai Dimtrievich Zorin dengan Yekaterina Aleksandrovna Morozova
+        1. Nama: Mikhail Nikolayevich Zorin
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Anastasia Nikolayevich Zorin
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

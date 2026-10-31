@@ -1,6 +1,23 @@
 GENERASI -3
-
+1. Nama: Iskandar Zafran al-Mahiri
+   Pasangan: Safiyya Nura bint Khalid
+   Anak: 1. Aaliyah Safiyya al-Mahiri
+         2. Nur Zafran al-Mahiri
+         3. Soraya Nura al-Mahiri
+   
 GENERASI -2
+    Anak Iskandar Zafran al-Mahiri dengan Safiyya Nura bint Khalid
+        1. Nama: Aaliyah Safiyya al-Mahiri
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Nur Zafran al-Mahiri
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Soraya Nura al-Mahiri
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

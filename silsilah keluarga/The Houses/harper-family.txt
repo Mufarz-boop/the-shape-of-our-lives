@@ -1,6 +1,13 @@
 GENERASI -3
-
+1. Nama: Charles Everette Harper
+   Pasangan: Madeline Rose Bennett
+   Anak: Alexander Vincent Theodore Harper
+   
 GENERASI -2
+    Anak Charles Everette Harper dengan Madeline Rose Bennett
+        1. Nama: Alexander Vincent Theodore Harper
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

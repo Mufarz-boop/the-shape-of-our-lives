@@ -1,6 +1,23 @@
 GENERASI -3
+1. Nama: Mahendra Vardhana Ardhana
+   Pasangan: Ratna Ayuningtyas
+   Anak: 1. Dyah Kirana Ratnadewi Ardhana
+         2. Sekar Ayuningrum Vardhani Ardhana
+         3. Adiprana Arya Narendra Mahardika Ardhana
 
 GENERASI -2
+    Anak Mahendra Vardhana Ardhana dengan Ratna Ayuningtyas
+        1. Nama: Dyah Kirana Ratnadewi Ardhana
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Sekar Ayuningrum Vardhani Ardhana
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Adiprana Arya Narendra Mahardika Ardhana
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

@@ -1,6 +1,13 @@
 GENERASI -3
-
+1. Nama: Aurelio Severin Marbas
+   Pasangan: Lucia Serafina Belladonna
+   Anak: Sevariano Cassiel Marbas
+   
 GENERASI -2
+    Anak Aurelio Severin Marbas dengan Lucia Serafina Belladonna
+        1. Nama: Sevariano Cassiel Marbas
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

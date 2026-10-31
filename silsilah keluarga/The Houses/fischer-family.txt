@@ -1,6 +1,18 @@
 GENERASI -3
-
+1. Nama: Friedrich Wilhelm Fischer
+   Pasangan: Margarethe Elise Hoffman
+   Anak: 1. Konrad Friedrich Fischer
+         2. Adelheid Elise Fischer
+   
 GENERASI -2
+    Anak Friedrich Wilhelm Fischer dengan Margarether Elisa Hoffman
+        1. Nama: Konrad Friedrich Fischer
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Adelheid Elisa Fischer
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

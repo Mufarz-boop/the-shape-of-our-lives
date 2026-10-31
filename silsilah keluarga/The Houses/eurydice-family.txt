@@ -1,6 +1,28 @@
 GENERASI -3
-
+1. Nama: Alexandros Theodoros Eurydice
+   Pasangan: Helena Calista Andronikos
+   Anak: 1. Ariadne Helena Eurydice
+         2. Daphne Callista Eurydice
+         3. Theodora Selena Eurydice
+         4. Leandros Alexandros Eurydice
+   
 GENERASI -2
+    Anak Alexandros Theodoros Eurydice dengan Helena Calista Andronikos
+        1. Nama: Ariadne Helena Eurydice
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Daphne Callista Eurydice
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Theodora Selena Eurydice
+           Pasangan: 
+           Anak: 
+
+        4. Nama: Leandros Alexandros Eurydice
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

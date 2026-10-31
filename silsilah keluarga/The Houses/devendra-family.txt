@@ -1,6 +1,25 @@
 GENERASI -3
-
+1. Nama: Rajendra Mahavira Devendra
+   Pasangan: 1. Anindita Prameswari
+             2. Meenakshi Rajalakshmi
+   Anak: 1. Aryavardhana Devendra
+         2. Ishani Prameswari Devendra
+         3. Vikramaditya Devendra
+   
 GENERASI -2
+    Anak Rajendra Mahavira Devendra dengan Anindita Prameswari
+        1. Nama: Aryavardhana Devendra
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Ishani Prameswari Devendra
+           Pasangan: 
+           Anak: 
+
+    Anak Rajendra Mahavira Devendra dengan Meenakshi Rajalakshmi
+        1. Nama: Vikramaditya Devendra
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

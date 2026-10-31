@@ -1,6 +1,28 @@
 GENERASI -3
-
+1. Nama: Alistair Evander Chastian
+   Pasangan: Eleanor Vivienne Ashcroft
+   Anak: 1. Theodore Alistair Chastian
+         2. Charlotte Vivienne Chastian
+         3. Julian Evander Chastian
+         4. Beatrice Eleanor Chastian
+   
 GENERASI -2
+    Anak Alistair Evander Chastian dengan Eleanor Vivienne Ashcroft
+        1. Nama: Theodore Alistair Chastian
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Charlotte Vivienne Chastian
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Julian Evander Chastian
+           Pasangan: 
+           Anak: 
+
+        4. Nama: Beatrice Eleanor Chastian
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

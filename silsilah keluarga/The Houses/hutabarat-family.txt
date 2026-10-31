@@ -1,6 +1,18 @@
 GENERASI -3
-
+1. Nama: Tuan Mangaraja Hutabarat
+   Pasangan: Boru Situmorang
+   Anak: 1. Raja Parulian Hutabarat
+         2. Boru Debora Hutabarat
+   
 GENERASI -2
+    Anak Tuan Mangaraja Hutabarat dengan Boru Situmorang
+        1. Nama: Raja Parulian Hutabarat
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Boru Debora Hutabarat
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

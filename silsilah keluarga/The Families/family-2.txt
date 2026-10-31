@@ -1,6 +1,13 @@
 GENERASI -3
-
+1. Nama: Muhammad Fadhlan Prasetya
+   Pasangan: Nadira Putri Maheswari
+   Anak: Kirana Nadira Prasetya Maheswari
+   
 GENERASI -2
+    Anak Muhammad Fadhlan Prasetya dengan Nadira Putri Maheswari
+        1. Nama: Kirana Nadira Prasetya Maheswari
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

@@ -1,6 +1,33 @@
 GENERASI -3
-
+1. Nama: Abdul Qadir Khalaf
+   Pasangan: Layla Samira al-Haddad
+   Anak: 1. Amira Qadira Khalaf
+         2. Zaynab Samira Khalaf
+         3. Mariam Layla Khalaf
+         4. Nour Eliana Khalaf
+         5. Safira Yasmina Khalaf
+   
 GENERASI -2
+    Anak Abdul Qadir Khalaf dengan Layla Samira al-Haddad
+        1. Nama: Amira Qadira Khalaf
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Zaynab Samira Khalaf
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Mariam Layla Khalaf
+           Pasangan: 
+           Anak: 
+
+        4. Nama: Nour Eliana Khalaf
+           Pasangan: 
+           Anak: 
+
+        5. Nama: Safira Yasmina Khalaf
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

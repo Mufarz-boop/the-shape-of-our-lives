@@ -1,6 +1,13 @@
 GENERASI -3
-
+1. Nama: Leopold Maximilian von Rughard
+   Pasangan: Theresia Margarethe von Falkenhayn
+   Anak: Friedrich Leopold Maximilian von Rughard
+   
 GENERASI -2
+    Anak Leopold Maximilian von Rughard dengan Theresia Margarethe von Falkenhayn
+        1. Nama: Friedrich Leopold Maximilian von Rughard
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

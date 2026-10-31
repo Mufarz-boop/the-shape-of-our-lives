@@ -1,6 +1,23 @@
 GENERASI -3
-
+1. Nama: Heinrich August von Treuhardt
+   Pasangan: Margarethe Adeline von Rosenheim
+   Anak: 1. Eleonora Margarethe von Treuhardt
+         2. Adelheid Viktoria von Treuhardt
+         3. Friedrich Heinrich von Treuhardt
+   
 GENERASI -2
+    Anak Heinrich August von Treuhardt dengan Margarethe Adeline von Rosenheim
+        1. Nama: Eleonora Margarethe von Treuhardt
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Adelheid Viktoria von Treuhardt
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Friedrich Heinrich von Treuhardt
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

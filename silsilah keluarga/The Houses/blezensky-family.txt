@@ -1,6 +1,18 @@
 GENERASI -3
-
+1. Nama: Aleksandr Wenceslaus Blezensky
+   Pasangan: Katarina Elisabeth Rosenfeld
+   Anak: 1. Eleonora Elisabeth Blezensky
+         2. Maximilian Vaclav Blezensky
+   
 GENERASI -2
+    Anak Aleksandr Wenceslaus Blezensky dengan Katarina Elisabeth Rosenfeld
+        1. Nama: Eleonora Elisabeth Blezensky
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Maximilian Vaclav Blezensky
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 
