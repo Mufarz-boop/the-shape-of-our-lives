@@ -10,5 +10,6 @@ GENERASI -2
            Anak: Matthias Nikolai Zeichner
 
 GENERASI -1
-
+   Anak Alexander Leonhard Matthias Zeichner dengan Anastasia Nikolayevich Zorin
+   
 GENERASI 0
