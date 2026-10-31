@@ -48,17 +48,58 @@ GENERASI -2
 
 GENERASI -1
    Anak Raja Adiluhung Parulian Nasution dengan Boru Debora Hutabarat
+      1. Nama: Raden Wiratama Nasution
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Ester Anindita Nasution
+         Pasangan: 
+         Anak: 
 
    Anak Angkat Rania Tiur Rahmah Nasution
+      1. Nama: Naufal Mahendra Nasution
+         Pasangan: 
+         Anak: 
 
    Anak Adiprana Arya Maruli Satyawan Nasution dengan Roxana Maryam Farzan at-Kashmiri
+      1. Nama: Anahita Puspita Nasution
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Niloufar Paramitha Nasution
+         Pasangan: 
+         Anak: 
 
    Anak Aurelia Romauli Salsabila Nasution dengan Muhammad Arkan Pratama Siregar
+      1. Nama: Maharani Paramitha Siregar
+         Pasangan: 
+         Anak: 
 
    Anak Kirana Duma Kamalia Nasution dengan Ibrahim Khalil al-Mansouri
+      1. Nama: Soraya Nadira al-Mansouri
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Darya Safira al-Mansouri
+         Pasangan: 
+         Anak: 
 
    Anak Nayara Nur Tiur Nasution dengan Ilyas Zhafir Hasibuan
+      1. Nama: Ibrahim Zayyan Hasibuan
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Tiara Anindita Hasibuan
+         Pasangan: 
+         Anak: 
 
    Anak Zahira Kamalia Nasution dengan Ibrahim Zafran al-Karim
-   
+      1. Nama: Aydan Fathir al-Karim
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Aditya Althaf al-Karim
+         Pasangan: 
+         Anak: 
+
 GENERASI 0

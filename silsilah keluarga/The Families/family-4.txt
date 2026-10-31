@@ -36,13 +36,48 @@ GENERASI -2
 
 GENERASI -1
    Anak Amira Qadira Khalaf dengan Raja Parulian Hutabarat
+      1. Nama: Kirana Tiur Hutabarat
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Danish Mangaraja Hutabarat
+         Pasangan: 
+         Anak: 
 
    Anak Zaynab Samira Khalaf dengan Maximilian August von Inglebert
+      1. Nama: Aziza Leonore von Inglebert
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Inaya Adelgund von Inglebert
+         Pasangan: 
+         Anak: 
+
+      3. Nama: Thuraiya Rosamund von Inglebert
+         Pasangan: 
+         Anak: 
 
    Anak Mariam Layla Khalaf dengan Sebastian Edmund Folgran
+      1. Nama: Nadira Genevieve Folgran
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Ruqayya Evangeline Folgran
+         Pasangan: 
+         Anak: 
 
    Anak Nour Eliana Khalaf dengan Dmitri Aleksandrovich Berlonsky
+      1. Nama: Leonid Dmitrievich Berlonsky
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Elizaveta Dmitrievna Berlonsky
+         Pasangan: 
+         Anak: 
 
    Anak Safira Yasmina Khalaf dengan Rayyan Khalil al-Farouqi
-   
+      1. Nama: Nusaybah Zahra al-Farouqi
+         Pasangan: 
+         Anak: 
+
 GENERASI 0

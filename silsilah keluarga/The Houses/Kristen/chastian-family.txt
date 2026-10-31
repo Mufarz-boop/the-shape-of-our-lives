@@ -31,11 +31,43 @@ GENERASI -2
 
 GENERASI -1
    Anak Theodore Alistair Chastian dengan Daphne Callista Eurydice
+      1. Nama: Cressida Helena Chastian
+         Pasangan: 
+         Anak: 
 
    Anak Charlotte Vivienne Chastian dengan Maximilian Vaclav Blezensky
+      1. Nama: Ludmila Beatrice Blezensky
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Albeta Rosamund Blezensky
+         Pasangan: 
+         Anak: 
+
+      3. Nama: Thaddeus Casimir Blezensky
+         Pasangan: 
+         Anak: 
+
+      4. Nama: Melisande Florence Blezensky
+         Pasangan: 
+         Anak: 
 
    Anak Julian Evander Chastian dengan Soraya Nura al-Mahiri
+      1. Nama: Victoria Nura Chastian
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Dominic Alistair Chastian
+         Pasangan: 
+         Anak: 
 
    Anak Beatrice Eleanor Chastian dengan Alexander Vincent Theodore Harper
-   
+      1. Nama: Cecily Isolde Harper
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Oswin Nathaniel Harper
+         Pasangan: 
+         Anak: 
+
 GENERASI 0
