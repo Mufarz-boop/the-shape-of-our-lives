@@ -10,19 +10,21 @@ GENERASI -2
     Anak Alexandros Theodoros Eurydice dengan Helena Calista Andronikos
         1. Nama: Ariadne Helena Eurydice
            Pasangan: Sevariano Cassiel Marbas
-           Anak: 
+           Anak: 1. Leontius Cassander Marbas
+                 2. Cassiopeia Lucienne Marbas
 
         2. Nama: Daphne Callista Eurydice
            Pasangan: Theodore Alistair Chastian
-           Anak: 
+           Anak: Cressida Helena Chastian
 
         3. Nama: Theodora Selena Eurydice
-           Pasangan: Alexander Leonhard Matthias Zeichner
-           Anak: 
+           Pasangan: -
+           Anak: -
 
         4. Nama: Leandros Alexandros Eurydice
            Pasangan: Soraya Yasmin Farzan at-Kashmiri
-           Anak: 
+           Anak: 1. Ismene Sorush Eurydice
+                 2. Eudora Mehrnaz Eurydice
 
 GENERASI -1
 

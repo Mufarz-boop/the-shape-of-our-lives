@@ -8,11 +8,13 @@ GENERASI -2
     Anak Tuan Mangaraja Hutabarat dengan Boru Situmorang
         1. Nama: Raja Parulian Hutabarat
            Pasangan: Amira Qadira Khalaf
-           Anak: 
+           Anak: 1. Kirana Tiur Hutabarat
+                 2. Danish Mangaraja Hutabarat
 
         2. Nama: Boru Debora Hutabarat
            Pasangan: Raja Adiluhung Parulian Nasution
-           Anak: 
+           Anak: 1. Raden Wiratama Nasution
+                 2. Ester Anindita Nasution
 
 GENERASI -1
 

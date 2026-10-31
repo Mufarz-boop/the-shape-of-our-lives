@@ -8,11 +8,14 @@ GENERASI -2
     Anak Friedrich Albrecht von Inglbert dengan Adelheid Charlotte von Eberstein
         1. Nama: Wilhelm Friedrich Albrecht von Inglebert
            Pasangan: Eleonora Margarethe von Treuhardt
-           Anak: 
+           Anak: 1. Thaddeus Emmerich von Inglebert
+                 2. Caspar Theobald von Inglebert
 
         2. Nama: Maximilian August von Inglebert
            Pasangan: Zaynab Samira Khalaf
-           Anak: 
+           Anak: 1. Aziza Leonore von Inglebert
+                 2. Inaya Adelgund von Inglebert
+                 3. Thuraiya Rosamund von Inglebert
 
 GENERASI -1
 

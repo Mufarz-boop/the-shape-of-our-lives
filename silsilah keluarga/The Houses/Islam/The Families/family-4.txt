@@ -11,15 +11,19 @@ GENERASI -2
     Anak Abdul Qadir Khalaf dengan Layla Samira al-Haddad
         1. Nama: Amira Qadira Khalaf
            Pasangan: Raja Parulian Hutabarat
-           Anak: 
+           Anak: 1. Kirana Tiur Hutabarat
+                 2. Danish Mangaraja Hutabarat
 
         2. Nama: Zaynab Samira Khalaf
            Pasangan: Maximilian August von Inglebert
-           Anak: 
+           Anak: 1. Aziza Leonore von Inglebert
+                 2. Inaya Adelgund von Inglebert
+                 3. Thuraiya Rosamund von Inglebert
 
         3. Nama: Mariam Layla Khalaf
            Pasangan: Sebastian Edmund Folgran
-           Anak: 
+           Anak: 1. Nadira Genevieve Folgran
+                 2. Ruqayya Evangeline Folgran
 
         4. Nama: Nour Eliana Khalaf
            Pasangan: Dmitri Aleksandrovich Berlonsky
@@ -28,7 +32,7 @@ GENERASI -2
 
         5. Nama: Safira Yasmina Khalaf
            Pasangan: Rayyan Khalil al-Farouqi
-           Anak: 
+           Anak: Nusaybah Zahra al-Farouqi
 
 GENERASI -1
 

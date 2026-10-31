@@ -11,20 +11,23 @@ GENERASI -2
     Anak Edmund Alaric Folgran dengan Cecilia Florence Whitmore
         1. Nama: Evelyn Florence Folgran
            Pasangan: Nicholas Dominic Hawthorne
-           Anak: 
+           Anak: 1. Percival Edmund Hawthorne
+                 2. Cordelia Mathilde Hawthorne
 
     Anak Edmund Alaric Folgran dengan Beatrice Lenora Sinclair
         1. Nama: Arabella Lenora Folgran
            Pasangan: Charles Evander Ravenscroft
-           Anak: 
+           Anak: Honoria Rosamund Ravenscroft
 
         2. Nama: Theodore Alaric Folgran
            Pasangan: Adelheid Elisa Fischer
-           Anak: 
+           Anak: 1. Ottilie Beatrice Folgran
+                 2. Theophania Celestine Folgran
 
         3. Nama: Sebastian Edmund Folgran
            Pasangan: Mariam Layla Khalaf
-           Anak: 
+           Anak: 1. Nadira Genevieve Folgran
+                 2. Ruqayya Evangeline Folgran
 
 GENERASI -1
 

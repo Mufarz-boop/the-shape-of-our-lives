@@ -11,11 +11,14 @@ GENERASI -2
     Anak Hamid Zahirruddin Farzan at-Kashmiri dengan Zahra Yasmin bint Farooq
         1. Nama: Soraya Yasmin Farzan at-Kashmiri
            Pasangan: Leandros Alexandros Eurydice
-           Anak: 
+           Anak: 1. Ismene Sorush Eurydice
+                 2. Eudora Mehrnaz Eurydice
 
         2. Nama: Parisa Zahra Farzan at-Kashmiri
            Pasangan: Konrad Friedrich Fischer
-           Anak: 
+           Anak: 1. Kian Bahram Theodor Fischer
+                 2. Kaveh Wendelin Fischer
+                 3. Shirin Azadeh Fischer
 
     Anak Hamid Zahirruddin Farzan at-Kashmiri dengan Maryam Laleh bint Arman
         1. Nama: Arman Kian Farzan at-Kashmiri
@@ -24,7 +27,8 @@ GENERASI -2
 
         2. Nama: Roxana Maryam Farzan at-Kashmiri
            Pasangan: Adiprana Arya Maruli Satyawan Nasution
-           Anak: 
+           Anak: 1. Anahita Puspita Nasution
+                 2. Niloufar Paramitha Nasution
 
 GENERASI -1
 

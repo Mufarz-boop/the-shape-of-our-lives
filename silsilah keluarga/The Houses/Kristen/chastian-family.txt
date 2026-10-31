@@ -10,11 +10,14 @@ GENERASI -2
     Anak Alistair Evander Chastian dengan Eleanor Vivienne Ashcroft
         1. Nama: Theodore Alistair Chastian
            Pasangan: Daphne Callista Eurydice
-           Anak: 
+           Anak: Cressida Helena Chastian
 
         2. Nama: Charlotte Vivienne Chastian
            Pasangan: Maximilian Vaclav Blezensky
-           Anak: 
+           Anak: 1. Ludmila Beatrice Blezensky
+                 2. Albeta Rosamund Blezensky
+                 3. Thaddeus Casimir Blezensky
+                 4. Melisande Florence Blezensky
 
         3. Nama: Julian Evander Chastian
            Pasangan: Soraya Nura al-Mahiri
@@ -23,7 +26,8 @@ GENERASI -2
 
         4. Nama: Beatrice Eleanor Chastian
            Pasangan: Alexander Vincent Theodore Harper
-           Anak: 
+           Anak: 1. Cecily Isolde Harper
+                 2. Oswin Nathaniel Harper
 
 GENERASI -1
 

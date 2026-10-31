@@ -14,22 +14,24 @@ GENERASI -2
     Anak Sutan Raja Mangaraja Nasution dengan Siti Rahmah Harahap
         1. Nama: Raja Adiluhung Parulian Nasution
            Pasangan: Boru Debora Hutabarat
-           Anak: 
+           Anak: 1. Raden Wiratama Nasution
+                 2. Ester Anindita Nasution
 
         2. Nama: Rania Tiur Rahmah Nasution
            Pasangan: -
-           Anak: 
+           Anak: Naufal Mahendra Nasution {Anak Angkat}
 
         3. Nama: Adiprana Arya Maruli Satyawan Nasution
            Pasangan: Roxana Maryam Farzan at-Kashmiri
-           Anak: 
+           Anak: 1. Anahita Puspita Nasution
+                 2. Niloufar Paramitha Nasution
 
         4. Nama: Aurelia Romauli Salsabila Nasution
            Pasangan: Muhammad Arkan Pratama Siregar
            Anak: 
 
         5. Nama: Kirana Duma Kamalia Nasution
-           Pasangan: Ibrahim Khalil Al-Mansouri
+           Pasangan: Ibrahim Khalil al-Mansouri
            Anak: 
 
     Anak Sutan Raja Mangaraja Nasution dengan Nurul Kamalia Siregar
@@ -38,7 +40,7 @@ GENERASI -2
            Anak: 
 
         2. Nama: Zahira Kamalia Nasution
-           Pasangan: Ibrahim Zafran Al-Karim
+           Pasangan: Ibrahim Zafran al-Karim
            Anak: 
 
 GENERASI -1
