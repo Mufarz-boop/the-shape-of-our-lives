@@ -8,17 +8,41 @@ GENERASI -3
 GENERASI -2
     Anak Mahendra Vardhana Ardhana dengan Ratna Ayuningtyas
         1. Nama: Dyah Kirana Ratnadewi Ardhana
-           Pasangan: 
-           Anak: 
+           Pasangan: Aryavardhana Devendra
+           Anak: 1. Abimanyu Aryavardhana Devendra
+                 2. Pradipta Satyanatha Aryavira Devendra
 
         2. Nama: Sekar Ayuningrum Vardhani Ardhana
-           Pasangan: 
-           Anak: 
+           Pasangan: Vikramaditya Devendra
+           Anak: Adityendra Mahendra Devendra
 
         3. Nama: Adiprana Arya Narendra Mahardika Ardhana
-           Pasangan: 
-           Anak: 
+           Pasangan: Ishani Prameswari Devendra
+           Anak: 1. Aryaditya Mahavardhana Devendra
+                 2. Rajavardhana Mahendra Devendra
 
 GENERASI -1
+   Anak Dyah Kirana Ratnadewi Ardhana dengan Aryavardhana Devendra
+      1. Nama: Abimanyu Aryavardhana Devendra
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Pradipta Satyavanatha Aryavira Devendra
+         Pasangan: 
+         Anak: 
+
+   Anak Sekar Ayuningrum Vardhani Ardhana dengan Vikramaditya Devendra
+      1. Nama: Adityendra Mahendra Devendra
+         Pasangan: 
+         Anak: 
+
+   Anak Adiprana Arya Narendra Mahardika Ardhana dengan Ishani Prameswari Devendra
+      1. Nama: Aryaditya Mahavardhana Devendra
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Rajavardhana Mahendra Devendra
+         Pasangan: 
+         Anak: 
 
 GENERASI 0

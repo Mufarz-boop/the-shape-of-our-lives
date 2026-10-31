@@ -9,18 +9,42 @@ GENERASI -3
 GENERASI -2
     Anak Rajendra Mahavira Devendra dengan Anindita Prameswari
         1. Nama: Aryavardhana Devendra
-           Pasangan: 
-           Anak: 
+           Pasangan: Dyah Kirana Ratnadewi Ardhana
+           Anak: 1. Abimanyu Aryavardhana Devendra
+                 2. Pradipta Satyanatha Aryavira Devendra
 
         2. Nama: Ishani Prameswari Devendra
-           Pasangan: 
-           Anak: 
+           Pasangan: Adiprana Arya Narendra Mahardika Ardhana
+           Anak: 1. Aryaditya Mahavardhana Devendra
+                 2. Rajavardhana Mahendra Devendra
 
     Anak Rajendra Mahavira Devendra dengan Meenakshi Rajalakshmi
         1. Nama: Vikramaditya Devendra
-           Pasangan: 
-           Anak: 
+           Pasangan: Sekar Ayuningrum Vardhani Ardhana
+           Anak: Adityendra Mahendra Devendra
 
 GENERASI -1
+   Anak Aryavardhana Devendra dengan Dyah Kirana Ratnadewi Ardhana
+      1. Nama: Abimanyu Aryavardhana Devendra
+         Pasangan: 
+         Anak: 
 
+      2. Nama: Pradipta Satyavanatha Aryavira Devendra
+         Pasangan: 
+         Anak: 
+
+   Anak Ishani Prameswari Devendra dengan Adiprana Arya Narendra Mahardika Ardhana
+      1. Nama: Aryaditya Mahavardhana Devendra
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Rajavardhana Mahendra Devendra
+         Pasangan: 
+         Anak: 
+
+   Anak Vikramaditya Devendra dengan Sekar Ayuningrum Vardhani Ardhana
+         1. Nama: Adityendra Mahendra Devendra
+         Pasangan: 
+         Anak: 
+         
 GENERASI 0
