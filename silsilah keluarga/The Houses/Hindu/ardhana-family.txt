@@ -18,8 +18,8 @@ GENERASI -2
 
         3. Nama: Adiprana Arya Narendra Mahardika Ardhana
            Pasangan: Ishani Prameswari Devendra
-           Anak: 1. Aryaditya Mahavardhana Devendra
-                 2. Rajavardhana Mahendra Devendra
+           Anak: 1. Aryaditya Mahavardhana Ardhana
+                 2. Rajavardhana Mahendra Ardhana
 
 GENERASI -1
    Anak Dyah Kirana Ratnadewi Ardhana dengan Aryavardhana Devendra
@@ -37,11 +37,11 @@ GENERASI -1
          Anak: 
 
    Anak Adiprana Arya Narendra Mahardika Ardhana dengan Ishani Prameswari Devendra
-      1. Nama: Aryaditya Mahavardhana Devendra
+      1. Nama: Aryaditya Mahavardhana Ardhana
          Pasangan: 
          Anak: 
 
-      2. Nama: Rajavardhana Mahendra Devendra
+      2. Nama: Rajavardhana Mahendra Ardhana
          Pasangan: 
          Anak: 
 
