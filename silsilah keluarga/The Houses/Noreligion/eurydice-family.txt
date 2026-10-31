@@ -29,7 +29,7 @@ GENERASI -2
 GENERASI -1
    Anak Ariadne Helena Eurydice dengan Sevariano Cassiel Marbas
       1. Nama: Leontius Cassander Marbas
-         Pasangan: 
+         Pasangan: Natalia Mikhailovna Zorin
          Anak: 
 
       2. Nama: Cassiopeia Lucienne Marbas
@@ -38,16 +38,16 @@ GENERASI -1
          
    Anak Daphne Callista Eurydice dengan Theodore Alistair Chastian
       1. Nama: Cressida Helena Chastian
-         Pasangan: 
+         Pasangan: Aditya Althaf al-Karim
          Anak: 
 
    Anak Leandros Alexandros Eurydice dengan Soraya Yasmin Farzan at-Kashmiri
       1. Nama: Ismene Sorush Eurydice
-         Pasangan: 
+         Pasangan: Augustus Mikhailovich Zorin
          Anak: 
 
       2. Nama: Eudora Mehrnaz Eurydice
-         Pasangan: 
+         Pasangan: Ayman Khalid Narendra Firnansyah
          Anak: 
 
 GENERASI 0

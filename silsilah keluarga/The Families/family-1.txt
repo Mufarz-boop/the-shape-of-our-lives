@@ -29,11 +29,11 @@ GENERASI -1
          Anak: 
 
       2. Nama: Nayla Qanita Firnansyah
-         Pasangan: 
+         Pasangan: Adityendra Mahendra Devendra
          Anak: 
 
       3. Nama: Ayman Khalid Narendra Firnansyah
-         Pasangan: 
+         Pasangan: Eudora Mehrnaz Eurydice
          Anak: 
 
    Anak Soraya Nura al-Mahiri dengan Julian Evander Chastian
@@ -42,7 +42,7 @@ GENERASI -1
          Anak: 
 
       2. Nama: Dominic Alistair Chastian
-         Pasangan: 
+         Pasangan: Nadira Genevieve Folgran
          Anak: 
    
 GENERASI 0

@@ -32,34 +32,34 @@ GENERASI -2
 GENERASI -1
    Anak Evelyn Florence Folgran dengan Nicholas Dominic Hawthorne
       1. Nama: Percival Edmund Hawthorne
-         Pasangan: 
+         Pasangan: Honoria Rosamund Ravenscroft
          Anak: 
          
       2. Nama: Cordelia Mathilde Hawthorne
-         Pasangan: 
+         Pasangan: Ibrahim Zayyan Hasibuan
          Anak: 
 
    Anak Arabella Lenora Folgran dengan Charles Evander Ravenscroft
       1. Nama: Honoria Rosamund Ravenscroft
-         Pasangan: 
+         Pasangan: Percival Edmund Hawthorne
          Anak: 
 
    Anak Theodore Alaric Folgran dengan Adelheid Elisa Fischer
       1. Nama: Ottilie Beatrice Folgran
-         Pasangan: 
+         Pasangan: Thaddeus Casimir Blezensky
          Anak: 
 
       2. Nama: Theophania Celestine Folgran
-         Pasangan: 
+         Pasangan: Aryaditya Mahavardhana Ardhana
          Anak: 
 
    Sebastian Edmund Folgran dengan Mariam Layla Khalaf
       1. Nama: Nadira Genevieve Folgran
-         Pasangan: 
+         Pasangan: Dominic Alistair Chastian
          Anak: 
 
       2. Nama: Ruqayya Evangeline Folgran
-         Pasangan: 
+         Pasangan: Kaveh Wendelin Fischer
          Anak: 
 
 GENERASI 0

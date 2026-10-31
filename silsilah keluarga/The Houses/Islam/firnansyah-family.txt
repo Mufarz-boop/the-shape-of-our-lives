@@ -26,7 +26,7 @@ GENERASI -2
 GENERASI -1
    Anak Dewi Anindyakusuma Firnansyah dengan Arman Kian Farzan at-Kashmiri
       1. Nama: Cyrus Aditya Farzan at-Kashmiri
-         Pasangan: 
+         Pasangan: Nusaybah Zahra al-Farouqi
          Anak: 
 
    Anak Raden Mahardika Adinata Firnansyah dengan Aaliyah Safiyya al-Mahiri
@@ -35,24 +35,24 @@ GENERASI -1
          Anak: 
 
       2. Nama: Nayla Qanita Firnansyah
-         Pasangan: 
+         Pasangan: Adityendra Mahendra Devendra
          Anak: 
 
       3. Nama: Ayman Khalid Narendra Firnansyah
-         Pasangan: 
+         Pasangan: Eudora Mehrnaz Eurydice
          Anak: 
 
    Anak Sekar Puspitaningrum Firnansyah dengan Friedrich Heinrich von Treuhardt
       1. Nama: Anastasia Margarethe von Treuhardt
-         Pasangan: 
+         Pasangan: Leonid Dmitrievich Berlonsky
          Anak: 
 
       2. Nama: Leopold Adinata von Treuhardt
-         Pasangan: 
+         Pasangan: Aziza Leonore von Inglebert
          Anak: 
 
       3. Nama: Konstantin Wiranegara von Treuhardt
-         Pasangan: 
+         Pasangan: Ester Anindita Nasution
          Anak: 
 
 GENERASI 0

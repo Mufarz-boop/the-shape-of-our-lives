@@ -49,57 +49,57 @@ GENERASI -2
 GENERASI -1
    Anak Raja Adiluhung Parulian Nasution dengan Boru Debora Hutabarat
       1. Nama: Raden Wiratama Nasution
-         Pasangan: 
+         Pasangan: Tiara Anindita Hasibuan
          Anak: 
 
       2. Nama: Ester Anindita Nasution
-         Pasangan: 
+         Pasangan: Konstantin Wiranegara von Treuhardt
          Anak: 
 
    Anak Angkat Rania Tiur Rahmah Nasution
       1. Nama: Naufal Mahendra Nasution
-         Pasangan: 
+         Pasangan: Darya Safira al-Mansouri
          Anak: 
 
    Anak Adiprana Arya Maruli Satyawan Nasution dengan Roxana Maryam Farzan at-Kashmiri
       1. Nama: Anahita Puspita Nasution
-         Pasangan: 
+         Pasangan: Thaddeus Emmerich von Inglebert
          Anak: 
 
       2. Nama: Niloufar Paramitha Nasution
-         Pasangan: 
+         Pasangan: Wolfram Siegmund von Rughard
          Anak: 
 
    Anak Aurelia Romauli Salsabila Nasution dengan Muhammad Arkan Pratama Siregar
       1. Nama: Maharani Paramitha Siregar
-         Pasangan: 
+         Pasangan: Danish Mangaraja Hutabarat
          Anak: 
 
    Anak Kirana Duma Kamalia Nasution dengan Ibrahim Khalil al-Mansouri
       1. Nama: Soraya Nadira al-Mansouri
-         Pasangan: 
+         Pasangan: Aydan Fathir al-Karim
          Anak: 
 
       2. Nama: Darya Safira al-Mansouri
-         Pasangan: 
+         Pasangan: Naufal Mahendra Nasution
          Anak: 
 
    Anak Nayara Nur Tiur Nasution dengan Ilyas Zhafir Hasibuan
       1. Nama: Ibrahim Zayyan Hasibuan
-         Pasangan: 
+         Pasangan: Cordelia Mathilde Hawthorne
          Anak: 
 
       2. Nama: Tiara Anindita Hasibuan
-         Pasangan: 
+         Pasangan: Raden Wiratama Nasution
          Anak: 
 
    Anak Zahira Kamalia Nasution dengan Ibrahim Zafran al-Karim
       1. Nama: Aydan Fathir al-Karim
-         Pasangan: 
+         Pasangan: Soraya Nadira al-Mansouri
          Anak: 
 
       2. Nama: Aditya Althaf al-Karim
-         Pasangan: 
+         Pasangan: Cressida Helena Chastian
          Anak: 
 
 GENERASI 0
