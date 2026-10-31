@@ -8,11 +8,13 @@ GENERASI -2
     Anak Aleksandr Konstantinovich Berlonsky dengan Anastasiya Mikhailovna Volkova
         1. Nama: Nikolai Aleksandrovich Berlonsky
            Pasangan: Kirana Nadira Prasetya Maheswari
-           Anak: 
+           Anak: 1. Mikhail Nikolayevich Berlonsky
+                 2. Leonid Roman Nikolayevich Berlonsky
 
         2. Nama: Dmitri Aleksandrovich Berlonsky
            Pasangan: Nour Eliana Khalaf
-           Anak: 
+           Anak: 1. Leonid Dmitrievich Berlonsky
+                 2. Elizaveta Dmitrievna Berlonsky
 
 GENERASI -1
 

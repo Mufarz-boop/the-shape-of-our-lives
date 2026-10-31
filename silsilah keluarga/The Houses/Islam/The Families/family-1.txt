@@ -9,7 +9,9 @@ GENERASI -2
     Anak Iskandar Zafran al-Mahiri dengan Safiyya Nura bint Khalid
         1. Nama: Aaliyah Safiyya al-Mahiri
            Pasangan: Raden Mahardika Adinata Firnansyah
-           Anak: 
+           Anak: 1. Rayyan Adityaputra Firnansyah
+                 2. Nayla Qanita Firnansyah
+                 3. Ayman Khalid Narendra Firnansyah
 
         2. Nama: Nur Zafran al-Mahiri
            Pasangan: -
@@ -17,7 +19,8 @@ GENERASI -2
 
         3. Nama: Soraya Nura al-Mahiri
            Pasangan: Julian Evander Chastian
-           Anak: 
+           Anak: 1. Victoria Nura Chastian
+                 2. Dominic Alistair Chastian
 
 GENERASI -1
 

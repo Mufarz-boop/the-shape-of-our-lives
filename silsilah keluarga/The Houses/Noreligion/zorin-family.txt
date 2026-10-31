@@ -8,11 +8,13 @@ GENERASI -2
     Anak Nikolai Dimtrievich Zorin dengan Yekaterina Aleksandrovna Morozova
         1. Nama: Mikhail Nikolayevich Zorin
            Pasangan: Eleonora Elisabeth Blezensky
-           Anak: 
+           Anak: 1. Natalia Mikhailovna Zorin
+                 2. Mariya Mikhailovna Zorin
+                 3. Augustus Mikhailovich Zorin
 
         2. Nama: Anastasia Nikolayevich Zorin
            Pasangan: Alexander Leonhard Matthias Zeichner
-           Anak: 
+           Anak: Matthias Nikolai Zeichner
 
 GENERASI -1
 
