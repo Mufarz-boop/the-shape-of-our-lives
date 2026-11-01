@@ -16,5 +16,8 @@ GENERASI -2
            Anak: 
 
 GENERASI -1
+   Anak Aleksei Nikolayevich Zorin dengan Amalia Mathilde von Treuhardt
 
+   Anak Valeriya Nikolayevich Zorin dengan Vladimir Aleksandrovich Berlonsky
+   
 GENERASI 0

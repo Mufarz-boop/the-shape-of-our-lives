@@ -12,5 +12,6 @@ GENERASI -2
            Anak: 
 
 GENERASI -1
-
+    Anak Christopher Augustus Hawthorne dengan Cordelia Elizabeth Harrington
+    
 GENERASI 0

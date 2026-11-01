@@ -12,5 +12,6 @@ GENERASI -2
            Anak: 
 
 GENERASI -1
-
+    Anak Raphael Margaux Marbas dengan Apolline Seraphine de Vauclair
+    
 GENERASI 0

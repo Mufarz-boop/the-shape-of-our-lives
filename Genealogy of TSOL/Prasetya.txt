@@ -22,5 +22,10 @@ GENERASI -2
            Anak: 
 
 GENERASI -1
+   Anak Anindya Nareswari Prasetya dengan Ahmad Fauzan Nasution
 
+   Anak Narendra Wicaksana Prasetya dengan Dyah Maheswari Candraningrum
+
+   Anak Ranggawijaya Mahardika Prasetya dengan Kirana Adityaswari Kusumaningrat
+   
 GENERASI 0

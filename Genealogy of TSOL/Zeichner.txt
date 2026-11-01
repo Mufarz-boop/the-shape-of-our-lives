@@ -12,5 +12,6 @@ GENERASI -2
            Anak: 
 
 GENERASI -1
-
+    Anak Valentin Matthias Zeichner dengan Magdalena Rosalie Blezensky
+    
 GENERASI 0

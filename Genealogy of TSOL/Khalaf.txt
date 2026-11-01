@@ -26,5 +26,10 @@ GENERASI -2
            Anak: 
 
 GENERASI -1
+    Anak Ruqayya Nazeera Khalaf dengan Kinan Zhafit Habibullah
 
+    Anak Nour Eliana Khlaf dengan Iskandar Nizar al-Azhari
+
+    Anak Zaydan Samir Khalaf dengan Delara Shireen at-Kashmiri
+    
 GENERASI 0

@@ -24,5 +24,10 @@ GENERASI -2
            Anak: 
 
 GENERASI -1
+   Anak Cordelia Elizabeth Harrington dengan Christopher Augustus Hawthorne
 
+   Anak Amelia Florence Harrington dengan Alistair Edmund Ashcombe
+
+   Anak Oliver Benedict Harrington dengan Honoria Rosamund Wycliffe
+   
 GENERASI 0

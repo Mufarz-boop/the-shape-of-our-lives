@@ -12,5 +12,6 @@ GENERASI -2
            Anak: 
 
 GENERASI -1
-
+    Anak Valentina Evangeline Chastian dengan Amaury Clement Chastian
+    
 GENERASI 0

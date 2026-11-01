@@ -29,5 +29,12 @@ GENERASI -2
            Anak: 
 
 GENERASI -1
+   Anak Amalia Mathilde von Treuhardt dengan Aleksei Nikolayevich Zorin
 
+   Anak Dorothea Leonore von Treuhardt dengan Ferdinand Ludwig von Auerstedt
+
+   Anak Gabrielle Theodora von Treuhardt dengan Ottomar Balthasar von Wartenberg
+
+   Anak Leopold Wilhelm von Treuhardt dengan Philomena Louise von Dornheim
+   
 GENERASI 0

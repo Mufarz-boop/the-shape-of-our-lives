@@ -27,5 +27,12 @@ GENERASI -2
            Anak: 
 
 GENERASI -1
+   Anak Elfrida Nauli Hutabarat dengan Raja Togar Sihombing
 
+   Anak Yuliana Purnama Hutabarat dengan Horas Parningotan Manurung
+
+   Anak Hotma Raja Hutabarat dengan Aisyah Khairunnisa Nasution
+
+   Anak Rosmauli Hutabarat dengan Oloan Martua Siraja
+   
 GENERASI 0
