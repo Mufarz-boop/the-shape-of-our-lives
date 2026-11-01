@@ -6,7 +6,8 @@ GENERASI -3
        Anak: 
        
 GENERASI -2
-
+    Anak Viktor Emil Blezensky dengan Katarina Milena Vondrak
+    
 GENERASI -1
 
 GENERASI 0

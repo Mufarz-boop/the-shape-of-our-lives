@@ -6,7 +6,8 @@ GENERASI -3
        Anak: 
        
 GENERASI -2
-
+    Anak Aleksandr Mikhailovich Berlonsky dengan Yelena Viktorovna Sokolova
+    
 GENERASI -1
 
 GENERASI 0

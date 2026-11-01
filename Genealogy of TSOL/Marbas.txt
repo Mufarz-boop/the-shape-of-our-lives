@@ -6,7 +6,8 @@ GENERASI -3
        Anak: 
        
 GENERASI -2
-
+    Anak Lucien Alexandre Marbas dengan Isabelle Marguerite Laurent
+    
 GENERASI -1
 
 GENERASI 0

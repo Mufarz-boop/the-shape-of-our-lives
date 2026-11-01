@@ -6,7 +6,8 @@ GENERASI -3
        Anak: 
        
 GENERASI -2
-
+    Anak Nathaniel Everett Hawthorne dengan Abigail Rose Montgomery
+    
 GENERASI -1
 
 GENERASI 0

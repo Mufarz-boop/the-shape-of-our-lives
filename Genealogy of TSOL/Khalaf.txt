@@ -8,7 +8,12 @@ GENERASI -3
        Anak: 
        
 GENERASI -2
+    Anak Ibrahim Nasser Khalaf dengan Amina Zahra al-Haddad
 
+    Anak Ibrahim Nasser Khalaf dengan Layla Samira al-Masri
+
+    Anak Ibrahim Nasser Khalaf dengan Nadia Farah al-Rashid
+    
 GENERASI -1
 
 GENERASI 0

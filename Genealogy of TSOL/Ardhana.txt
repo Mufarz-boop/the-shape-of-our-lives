@@ -6,7 +6,8 @@ GENERASI -3
        Anak: 
        
 GENERASI -2
-
+    Raden Aryasatya Wiranegara Ardhana dengan Raden Ayu Kusumaningrum Prawiradiningrat
+    
 GENERASI -1
 
 GENERASI 0

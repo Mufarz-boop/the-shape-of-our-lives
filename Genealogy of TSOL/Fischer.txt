@@ -6,7 +6,8 @@ GENERASI -3
        Anak: 
        
 GENERASI -2
-
+    Anak Friedrich Wilhelm Fischer dengan Margarethe Elisabeth Schneider
+    
 GENERASI -1
 
 GENERASI 0

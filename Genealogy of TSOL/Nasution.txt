@@ -6,7 +6,8 @@ GENERASI -3
        Anak: 
        
 GENERASI -2
-
+    Anak Haji Abdul Karim Nasution dengan Siti Aminah Lubis
+    
 GENERASI -1
 
 GENERASI 0
