@@ -10,15 +10,36 @@ GENERASI -2
     Anak Zaydan Rashid al-Mahiri dengan Maryam Safiyya al-Khatib
         1. Nama: Ibrahim Rashdan al-Mahiri
            Pasangan: Safiyya Zaren at-Kashmiri
-           Anak: 
+           Anak: 1. Arsalan Zaydan al-Mahiri
+                 2. Dilara Zarnigar al-Mahiri
 
         2. Nama: Sulaiman Hamdan al-Mahiri
            Pasangan: Ghaliyah Nusaybah al-Khazraji
-           Anak: 
+           Anak: 1. Rufaidah Thurayya al-Mahiri
+                 2. Sulaiman Ubaydullah al-Mahiri
+                 3. Asmahan Zareen al-Mahiri
 
 GENERASI -1
    Anak Ibrahim Rashdan al-Mahiri dengan Safiyya Zaren at-Kashmiri
+      1. Nama: Arsalan Zaydan al-Mahiri
+         Pasangan: 
+         Anak: 
+         
+      2. Nama: Dilara Zarnigar al-Mahiri
+         Pasangan: 
+         Anak: 
 
    Anak Sulaiman Hamdan al-Mahiri dengan Ghaliyah Nusaybah al-Khazraji
-   
+      1. Nama: Rufaidah Thurayya al-Mahiri
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Sulaiman Ubaydullah al-Mahiri
+         Pasangan: 
+         Anak: 
+
+      3. Nama: Asmahan Zareen al-Mahiri
+         Pasangan: 
+         Anak: 
+         
 GENERASI 0

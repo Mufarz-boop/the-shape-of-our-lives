@@ -9,9 +9,17 @@ GENERASI -2
     Anak Lucien Alexandre Marbas dengan Isabelle Marguerite Laurent
         1. Nama: Raphael Margaux Marbas
            Pasangan: Apolline Seraphine de Vauclair
-           Anak: 
+           Anak: 1. Bastian Augustin Marbas
+                 2. Sevariano Cassiel Marbas
 
 GENERASI -1
     Anak Raphael Margaux Marbas dengan Apolline Seraphine de Vauclair
-    
+        1. Nama: Bastian Augustin Marbas
+           Pasangan: 
+           Anak: 
+           
+        2. Nama: Sevariano Cassiel Marbas
+           Pasangan: 
+           Anak: 
+
 GENERASI 0

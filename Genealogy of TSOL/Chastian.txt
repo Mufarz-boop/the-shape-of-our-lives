@@ -9,9 +9,17 @@ GENERASI -2
     Anak Theodore Augustin Chastian dengan Eleonora Vivienne Beaumont
         1. Nama: Valentina Evangeline Chastian
            Pasangan: Amaury Clement Chastian
-           Anak: 
+           Anak: 1. Gaspard Evandre Chastian
+                 2. Cyprien Alexandre Chastian
 
 GENERASI -1
     Anak Valentina Evangeline Chastian dengan Amaury Clement Chastian
-    
+        1. Nama: Gaspard Evandre Chastian
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Cyprien Alexandre Chastian
+           Pasangan: 
+           Anak: 
+
 GENERASI 0

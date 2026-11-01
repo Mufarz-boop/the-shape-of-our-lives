@@ -10,15 +10,26 @@ GENERASI -2
     Anak Haji Abdul Karim Nasution dengan Siti Aminah Lubis
         1. Nama: Aisyah Khairunnisa Nasution
            Pasangan: Hotma Raja Hutabarat
-           Anak: 
+           Anak: Ibrahim Adyatma Hutabarat
         
         2. Nama: Ahmad Fauzan Nasution
            Pasangan: Anindya Nareswari Prasetya
-           Anak: 
+           Anak: 1. Aryasena Mahardika Nasution
+                 2. Abhimanyu Dirgantara Nasution
 
 GENERASI -1
    Anak Aisyah Khairunnisa Nasution dengan Hotma Raja Hutabarat
+      1. Nama: Ibrahim Adyatma Hutabarat
+         Pasangan: 
+         Anak: 
 
    Ahmad Fauzan Nasution dengan Anindya Nareswari Prasetya
-   
+      1. Nama: Aryasena Mahardika Nasution
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Abhimanyu Dirgantara Nasution
+         Pasangan: 
+         Anak: 
+
 GENERASI 0

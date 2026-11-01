@@ -9,15 +9,26 @@ GENERASI -2
     Anak Nikolai Aleksandrovich Zorin dengan Anastasiya Mikhailovna Volkova
         1. Nama: Aleksei Nikolayevich Zorin
            Pasangan: Amalia Mathilde von Treuhardt
-           Anak: 
+           Anak: 1. Konstantin Alekseyevich Zorin
+                 2. Evgeny Alekseyevich Zorin
 
         2. Nama: Valeriya Nikolayevich Zorin
            Pasangan: Vladimir Aleksandrovich Berlonsky
-           Anak: 
+           Anak: Mikhail Vladimirovich Berlonsky
 
 GENERASI -1
    Anak Aleksei Nikolayevich Zorin dengan Amalia Mathilde von Treuhardt
+      1. Nama: Konstantin Alekseyevich Zorin
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Evgeny Alekseyevich Zorin
+         Pasangan: 
+         Anak: 
 
    Anak Valeriya Nikolayevich Zorin dengan Vladimir Aleksandrovich Berlonsky
-   
+      1. Nama: Mikhail Vladimirovich Berlonsky
+           Pasangan: 
+           Anak: 
+
 GENERASI 0

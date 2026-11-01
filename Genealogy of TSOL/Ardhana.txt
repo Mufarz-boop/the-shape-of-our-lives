@@ -11,11 +11,12 @@ GENERASI -2
     Raden Aryasatya Wiranegara Ardhana dengan Raden Ayu Kusumaningrum Prawiradiningrat
         1. Nama: Raden Ayu Adhisty Kusumaningrum Ardhana
            Pasangan: Ishaan Rajvardhan Devendra
-           Anak: 
+           Anak: Kalyani Aryaswari Devendra
 
         2. Nama: Raden Danendra Kusumawardhana Ardhana
            Pasangan: Raden Ayu Satyavati Weningrum
-           Anak: 
+           Anak: 1. Raden Adityanegara Ardhana
+                 2. Raden Prabaswara Kusumawardhana Ardhana
 
         3. Nama: Raden Ayu Candrakirana Maheswari Ardhana
            Pasangan: -
@@ -23,7 +24,17 @@ GENERASI -2
 
 GENERASI -1
    Anak Raden Ayu Adhisty Kusumaningrum Ardhana dengan Ishaan Rajvardhan Devendra
+      1. Nama: Kalyani Aryaswari Devendra
+         Pasangan: 
+         Anak: 
 
    Anak Raden Danendra Kusumawardhana Ardhana dengan Raden Ayu Satyavati Weningrum
-   
+      1. Nama: Raden Adityanegara Ardhana
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Raden Prabaswara Kusumawardhana Ardhana
+         Pasangan: 
+         Anak: 
+         
 GENERASI 0

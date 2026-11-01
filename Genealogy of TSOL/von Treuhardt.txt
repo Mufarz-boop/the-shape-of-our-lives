@@ -13,28 +13,50 @@ GENERASI -2
     Anak Friedrich Albrecht von Treuhardt dengan Adelheid Margarethe von Eberstein
         1. Nama: Amalia Mathilde von Treuhardt
            Pasangan: Aleksei Nikolayevich Zorin
-           Anak: 
+           Anak: 1. Konstantin Alekseyevich Zorin
+                 2. Evgeny Alekseyevich Zorin
 
         2. Nama: Dorothea Leonore von Treuhardt
            Pasangan: Ferdinand Ludwig von Auerstedt
-           Anak: 
+           Anak: Theodor Leonhard von Auerstedt
 
         3. Nama: Gabrielle Theodora von Treuhardt
            Pasangan: Ottomar Balthasar von Wartenberg
-           Anak: 
+           Anak: 1. Amalia Rosamund von Wartenberg
+                 2. Theresia Liselotte von Wartenberg
 
     Anak Friedrich Albrecht von Treuhardt dengan Elisabeth Charlotte von Falkenrath
         1. Nama: Leopold Wilhelm von Treuhardt
            Pasangan: Philomena Louise von Dornheim
-           Anak: 
+           Anak: Zheron Roderick von Treuhardt
 
 GENERASI -1
    Anak Amalia Mathilde von Treuhardt dengan Aleksei Nikolayevich Zorin
+      1. Nama: Konstantin Alekseyevich Zorin
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Evgeny Alekseyevich Zorin
+         Pasangan: 
+         Anak: 
 
    Anak Dorothea Leonore von Treuhardt dengan Ferdinand Ludwig von Auerstedt
+      1. Nama: Theodor Leonhard von Auerstedt
+         Pasangan: 
+         Anak: 
 
    Anak Gabrielle Theodora von Treuhardt dengan Ottomar Balthasar von Wartenberg
+      1. Nama: Amalia Rosamund von Wartenberg
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Theresia Liselotte von Wartenberg
+         Pasangan: 
+         Anak: 
 
    Anak Leopold Wilhelm von Treuhardt dengan Philomena Louise von Dornheim
-   
+      1. Nama: Zheron Roderick von Treuhardt
+         Pasangan: 
+         Anak: 
+
 GENERASI 0

@@ -11,21 +11,40 @@ GENERASI -2
     Anak Wiratama Adinugraha Prasetya dengan Ratih Sekar Wulandari
         1. Nama: Anindya Nareswari Prasetya
            Pasangan: Ahmad Fauzan Nasution
-           Anak: 
+           Anak: 1. Aryasena Mahardika Nasution
+                 2. Abhimanyu Dirgantara Nasution
 
         2. Nama: Narendra Wicaksana Prasetya
            Pasangan: Dyah Maheswari Candraningrum
-           Anak: 
+           Anak: Baskara Candrakanta Prasetya
 
         3. Nama: Ranggawijaya Mahardika Prasetya
            Pasangan: Kirana Adityaswari Kusumaningrat
-           Anak: 
+           Anak: 1. Gayatri Nayottama Prasetya
+                 2. Satyendra Suryadarma Prasetya
 
 GENERASI -1
    Anak Anindya Nareswari Prasetya dengan Ahmad Fauzan Nasution
+      1. Nama: Aryasena Mahardika Nasution
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Abhimanyu Dirgantara Nasution
+         Pasangan: 
+         Anak: 
 
    Anak Narendra Wicaksana Prasetya dengan Dyah Maheswari Candraningrum
+      1. Nama: Baskara Candrakanta Prasetya
+         Pasangan: 
+         Anak: 
 
    Anak Ranggawijaya Mahardika Prasetya dengan Kirana Adityaswari Kusumaningrat
-   
+      1. Nama: Gayatri Nayottama Prasetya
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Satyendra Suryadarma Prasetya
+         Pasangan: 
+         Anak: 
+
 GENERASI 0

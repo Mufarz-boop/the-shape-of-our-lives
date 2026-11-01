@@ -11,21 +11,40 @@ GENERASI -2
     Anak Muhammad Firdaus Firnansyah dengan Siti Rahmah binti Abdullah
         1. Nama: Muhammad Rayyan Firnansyah
            Pasangan: Liyana Afsheen Nureh at-Kashmiri
-           Anak: 
+           Anak: 1. Afsana Zoya Shahnaz Firnansyah
+                 2. Kaysan Zaryab Firnansyah
 
         2. Nama: Ammar Dzulfikar Firnansyah
            Pasangan: Rabi'ah Maisarah al-Qurashi
-           Anak: 
+           Anak: Harith Ghiyath Firnansyah
 
         3. Nama: Naura Khairunnisa Firnansyah
            Pasangan: Mikail Dzuhair al-Faruqi
-           Anak: 
+           Anak: 1. Thurayya Mikayla al-Faruqi
+                 2. Ghazala Haneen al-Faruqi
 
 GENERASI -1
    Anak Muhammad Rayyan Firnansyah dengan Liyana Afsheen Nureh at-Kashmiri
+      1. Nama: Afsana Zoya Shahnaz Firnansyah
+         Pasangan: 
+         Anak: 
 
+      2. Nama: Kaysan Zaryab Firnansyah
+         Pasangan: 
+         Anak: 
+         
    Anak Ammar Dzulfikar Firnansyah dengan Rabi'ah Maisarah al-Qurashi
+      1. Nama: Harith Ghiyath Firnansyah
+         Pasangan: 
+         Anak: 
 
    Anak Naura Khairunnisa Firnansyah dengan Mikail Dzuhair al-Faruqi
-   
+      1. Nama: Thurayya Mikayla al-Faruqi
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Ghazala Haneen al-Faruqi
+         Pasangan: 
+         Anak: 
+
 GENERASI 0

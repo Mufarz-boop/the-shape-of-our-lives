@@ -10,7 +10,7 @@ GENERASI -2
     Anak Friedrich Wilhelm Fischer dengan Margarethe Elisabeth Schneider
         1. Nama: Konstantin Emil Fischer
            Pasangan: Isolde Katharina von Hohenberg
-           Anak: 
+           Anak: Leopold Augustin Fischer
 
         2. Nama: Katharina Adelheid Fischer
            Pasangan: Wilhelm Konstantin von Wellenberg
@@ -18,7 +18,13 @@ GENERASI -2
 
 GENERASI -1
    Anak Konstantin Emil Fischer dengan Isolde Katharina von Hohenberg
+      1. Nama: Leopold Augustin Fischer
+         Pasangan: 
+         Anak: 
 
    Anak Katharina Adelheid Fischer dengan Wilhelm Konstantin von Wellenberg
-   
+      1. Nama: Ernst Maximilian von Wellenberg
+         Pasangan: 
+         Anak: 
+
 GENERASI 0

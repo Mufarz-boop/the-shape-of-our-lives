@@ -9,9 +9,12 @@ GENERASI -2
     Anak Aleksandr Mikhailovich Berlonsky dengan Yelena Viktorovna Sokolova
         1. Nama: Vladimir Aleksandrovich Berlonsky
            Pasangan: Valeriya Nikolayevich Zorin
-           Anak: 
+           Anak: Mikhail Vladimirovich Berlonsky
 
 GENERASI -1
     Anak Vladimir Aleksandrovich Berlonsky dengan Valeriya Nikolayevich Zorin
-    
+        1. Nama: Mikhail Vladimirovich Berlonsky
+           Pasangan: 
+           Anak: 
+
 GENERASI 0

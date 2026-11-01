@@ -9,9 +9,17 @@ GENERASI -2
     Anak Matthias Leopold Zeichner dengan Clara Johanna Weiss
         1. Nama: Valentin Matthias Zeichner
            Pasangan: Magdalena Rosalie Blezensky
-           Anak: 
+           Anak: 1. Maximilian Valentin Zeichner
+                 2. Cornelius Valentin Zeichner
 
 GENERASI -1
     Anak Valentin Matthias Zeichner dengan Magdalena Rosalie Blezensky
-    
+        1. Nama: Maximilian Valentin Zeichner
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Cornelius Valentin Zeichner
+           Pasangan: 
+           Anak: 
+
 GENERASI 0

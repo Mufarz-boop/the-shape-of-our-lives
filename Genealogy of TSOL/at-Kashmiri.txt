@@ -14,29 +14,56 @@ GENERASI -2
     Anak Mirza Azeemuddin Farooq at-Kashmiri dengan Zainab Noor Jahan
         1. Nama: Safiyya Zaren at-Kashmiri
            Pasangan: Ibrahim Rashdan al-Mahiri
-           Anak: 
+           Anak: 1. Arsalan Zaydan al-Mahiri
+                 2. Dilara Zarnigar al-Mahiri
 
         2. Nama: Liyana Afsheen Nureh at-Kashmiri
            Pasangan: Muhammad Rayyan Firnansyah
-           Anak: 
+           Anak: 1. Afsana Zoya Shahnaz Firnansyah
+                 2. Kaysan Zaryab Firnansyah
 
     Anak Mirza Azeemuddin Farooq at-Kashmiri dengan Samina Gulrukh
         1. Nama: Zarrar Sikandar Mirza at-Kashmiri
            Pasangan: Zebunnisa Mahvash Begum
-           Anak: 
+           Anak: Kian Kamran Hosrow at-Kashmiri
 
     Anak Mirza Azeemuddin Farooq at-Kashmiri dengan Mahvish Rukhsana
         1. Nama: Delara Shireen at-Kashmiri
            Pasangan: Zaydan Samir Khalaf
-           Anak: 
+           Anak: 1. Roxana Mehrunnisa Khalaf
+                 2. Kaveh Muzaffar Khalaf
 
 GENERASI -1
    Anak Safiyya Zaren at-Kashmiri dengan Ibrahim Rashdan al-Mahiri
+      1. Nama: Arsalan Zaydan al-Mahiri
+         Pasangan: 
+         Anak: 
+         
+      2. Nama: Dilara Zarnigar al-Mahiri
+         Pasangan: 
+         Anak: 
 
    Anak Liyana Afsheen Nureh at-Kashmiri dengan Muhammad Rayyan Firnansyah
+      1. Nama: Afsana Zoya Shahnaz Firnansyah
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Kaysan Zaryab Firnansyah
+         Pasangan: 
+         Anak: 
 
    Anak Zarrar Sikandar Mirza at-Kashmiri dengan Zebunnisa Mahvash Begum
+      1. Nama: Kian Kamran Hosrow at-Kashmiri
+         Pasangan: 
+         Anak: 
 
    Anak Delara Shireen at-Kashmiri dengan Zaydan Samir Khalaf
-   
+      1. Nama: Roxana Mehrunnisa Khalaf
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Kaveh Muzaffar Khalaf
+         Pasangan: 
+         Anak: 
+         
 GENERASI 0

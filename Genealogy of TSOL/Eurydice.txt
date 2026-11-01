@@ -9,9 +9,12 @@ GENERASI -2
     Anak Alexandros Theodoros Eurydice dengan Callista Helena Andronikos
         1. Nama: Theophilos Leonidas Eurydice
            Pasangan: Kleio Anastasia Vatatzina
-           Anak: 
+           Anak: Leontius Alexios Eurydice
 
 GENERASI -1
     Anak Theophilos Leonidas Eurydice dengan Kleio Anastasia Vatatzina
-    
+        1. Nama: Leontius Alexios Eurydice
+           Pasangan: 
+           Anak: 
+
 GENERASI 0

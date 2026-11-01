@@ -10,15 +10,26 @@ GENERASI -2
     Anak Rajendra Vikram Devendra dengan Ananya Lakshmi Sharma
         1. Nama: Ishaan Rajvardhan Devendra
            Pasangan: Raden Ayu Adhisty Kusumaningrum Ardhana
-           Anak: 
+           Anak: Kalyani Aryaswari Devendra
 
         2. Nama: Krishiv Mahadev Devendra
            Pasangan: Charulata Sharvani Rao
-           Anak: 
+           Anak: 1. Rudran Shaurya Devendra
+                 2. Kavya Ishita Devendra
 
 GENERASI -1
    Anak Ishaan Rajvardhan Devendra dengan Raden Ayu Adhisty Kusumaningrum Ardhana
+      1. Nama: Kalyani Aryaswari Devendra
+         Pasangan: 
+         Anak: 
 
    Anak Krishiv Mahadev Devendra dengan Charulata Sharvani Rao
-   
+      1. Nama: Rudran Shaurya Devendra
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Kavya Ishita Devendra
+         Pasangan: 
+         Anak: 
+
 GENERASI 0

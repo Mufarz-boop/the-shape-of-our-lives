@@ -10,15 +10,41 @@ GENERASI -2
     Anak Viktor Emil Blezensky dengan Katarina Milena Vondrak
         1. Nama: Magdalena Rosalie Blezensky
            Pasangan: Valentin Matthias Zeichner
-           Anak: 
+           Anak: 1. Maximilian Valentin Zeichner
+                 2. Cornelius Valentin Zeichner
 
         2. Nama: Maximilian Ales Blezensky
            Pasangan: Milada Rozalie Schwarzenberg
-           Anak: 
+           Anak: 1. Oldrich Konstantin Blezensky
+                 2. Apolena Mathilde Blezensky
+                 3. Zora Severina Blezensky
+                 4. Radovan Alexander Blezensky
 
 GENERASI -1
    Anak Magdalena Rosalie Blezensky dengan Valentin Matthias Zeichner
+      1. Nama: Maximilian Valentin Zeichner
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Cornelius Valentin Zeichner
+         Pasangan: 
+         Anak: 
 
    Anak Maximilian Ales Blezensky dengan Milada Rozalie Schwarzenberg
-   
+      1. Nama: Oldrich Konstantin Blezensky
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Apolena Mathilde Blezensky
+         Pasangan: 
+         Anak: 
+
+      3. Nama: Zora Severina Blezensky
+         Pasangan: 
+         Anak: 
+
+      4. Nama: Radovan Alexander Blezensky
+         Pasangan: 
+         Anak: 
+
 GENERASI 0
