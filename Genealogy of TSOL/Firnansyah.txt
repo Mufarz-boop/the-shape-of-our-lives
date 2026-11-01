@@ -35,8 +35,12 @@ GENERASI -1
          
    Anak Ammar Dzulfikar Firnansyah dengan Rabi'ah Maisarah al-Qurashi
       1. Nama: Harith Ghiyath Firnansyah
-         Pasangan: 
-         Anak: 
+         Pasangan: Roxana Mehrunnisa Khalaf
+         Anak: 1. Zaviera Naeema Qaneya Firnansyah
+               2. Afdal Adha Firnansyah
+               3. Yumna Maliqa Firnansyah
+               4. Aluna Qanita Syafira Putri Firnansyah
+               5. Elvano Zayrendra Mahendra Firnansyah
 
    Anak Naura Khairunnisa Firnansyah dengan Mikail Dzuhair al-Faruqi
       1. Nama: Thurayya Mikayla al-Faruqi
@@ -48,3 +52,23 @@ GENERASI -1
          Anak: 
 
 GENERASI 0
+   Anak Harith Ghiyath Firnansyah dengan Roxana Mehrunnisa Khalaf
+      1. Nama: Zaviera Naeema Qaneya Firnansyah
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Afdal Adha Firnansyah
+         Pasangan: 
+         Anak: 
+         
+      3. Nama: Yumna Maliqa Firnansyah
+         Pasangan: 
+         Anak: 
+         
+      4. Nama: Aluna Qanita Syafira Putri Firnansyah
+         Pasangan: 
+         Anak: 
+         
+      5. Nama: Elevano Zayrendra Mahendra Firnansyah
+         Pasangan: 
+         Anak: 

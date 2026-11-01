@@ -37,13 +37,18 @@ GENERASI -1
          Anak: 
 
       3. Nama: Lucinda Florence Hawthorne
-         Pasangan: 
-         Anak: 
+         Pasangan: Sevariano Cassiel Marbas
+         Anak: 1. Maxence Lysander Marbas
+               2. Xavier Devano Marbas
 
    Anak Amelia Florence Harrington dengan Alistair Edmund Ashcombe
       1. Nama: Cecilia Rosalind Ashcombe
-         Pasangan: 
-         Anak: 
+         Pasangan: Zheron Roderick von Treuhardt
+         Anak: 1. Deon Alexander von Treuhardt
+               2. Lusy Adelheid von Treuhardt
+               3. Vegis Konstantin von Treuhardt
+               4. Anastasia Odette von Treuhardt
+               5. Vivienne Cillia von Treuhardt
 
    Anak Oliver Benedict Harrington dengan Honoria Rosamund Wycliffe
       1. Nama: Lucian Augustus Harrington
@@ -55,3 +60,32 @@ GENERASI -1
          Anak: 
 
 GENERASI 0
+   Anak Lucinda Florence Hawthorne dengan Sevariano Cassiel Marbas
+      1. Nama: Maxence Lysander Marbas
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Xavier Devano Marbas
+         Pasangan: 
+         Anak: 
+         
+   Anak Cecilia Rosalind Ashcombe dengan Zheron Roderick von Treuhardt
+      1. Nama: Deon Alexander von Treuhardt
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Lusy Adelheid von Treuhardt
+         Pasangan: 
+         Anak: 
+
+      3. Nama: Vegis Konstantin von Treuhardt
+         Pasangan: 
+         Anak: 
+
+      4. Nama: Anastasia Odette von Treuhardt
+         Pasangan: 
+         Anak: 
+
+      5. Nama: Vivienne Cillia von Treuhardt
+         Pasangan: 
+         Anak: 

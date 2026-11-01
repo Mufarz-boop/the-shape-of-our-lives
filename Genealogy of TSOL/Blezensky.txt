@@ -27,8 +27,9 @@ GENERASI -1
          Anak: 
 
       2. Nama: Cornelius Valentin Zeichner
-         Pasangan: 
-         Anak: 
+         Pasangan: Mikhail Vladimirovich Berlonsky
+         Anak: 1. Dimitri Mikhailovich Berlonsky
+               2. Leonore Mikhailovna Berlonsky
 
    Anak Maximilian Ales Blezensky dengan Milada Rozalie Schwarzenberg
       1. Nama: Oldrich Konstantin Blezensky
@@ -48,3 +49,11 @@ GENERASI -1
          Anak: 
 
 GENERASI 0
+   Anak Cornelius Valentin Zeichner dengan Mikhail Vladimirovich Berlonsky
+      1. Nama: Dimitri Mikhailovich Berlonsky
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Leonore Mikhailovna Berlonsky
+         Pasangan: 
+         Anak: 

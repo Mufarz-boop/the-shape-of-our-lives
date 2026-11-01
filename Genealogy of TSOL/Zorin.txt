@@ -28,7 +28,16 @@ GENERASI -1
 
    Anak Valeriya Nikolayevich Zorin dengan Vladimir Aleksandrovich Berlonsky
       1. Nama: Mikhail Vladimirovich Berlonsky
-           Pasangan: 
-           Anak: 
+           Pasangan: Cornelius Valentin Zeichner
+           Anak: 1. Dimitri Mikhailovich Berlonsky
+                 2. Leonore Mikhailovna Berlonsky
 
 GENERASI 0
+   Anak Mikhail Vladimirovich Berlonsky dengan Cornelius Valentin Zeichner
+      1. Nama: Dimitri Mikhailovich Berlonsky
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Leonore Mikhailovna Berlonsky
+         Pasangan: 
+         Anak: 

@@ -19,7 +19,16 @@ GENERASI -1
            Anak: 
 
         2. Nama: Cornelius Valentin Zeichner
+           Pasangan: Mikhail Vladimirovich Berlonsky
+           Anak: 1. Dimitri Mikhailovich Berlonsky
+                 2. Leonore Mikhailovna Berlonsky
+
+GENERASI 0
+    Anak Cornelius Valentin Zeichner dengan Mikhail Vladimirovich Berlonsky
+        1. Nama: Dimitri Mikhailovich Berlonsky
            Pasangan: 
            Anak: 
 
-GENERASI 0
+        2. Nama: Leonore Mikhailovna Berlonsky
+           Pasangan: 
+           Anak: 

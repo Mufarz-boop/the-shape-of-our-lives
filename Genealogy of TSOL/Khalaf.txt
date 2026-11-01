@@ -44,11 +44,35 @@ GENERASI -1
 
     Anak Zaydan Samir Khalaf dengan Delara Shireen at-Kashmiri
         1. Nama: Roxana Mehrunnisa Khalaf
-           Pasangan: 
-           Anak: 
+           Pasangan: Harith Ghiyath Firnansyah
+           Anak: 1. Zaviera Naeema Qaneya Firnansyah
+                 2. Afdal Adha Firnansyah
+                 3. Yumna Maliqa Firnansyah
+                 4. Aluna Qanita Syafira Putri Firnansyah
+                 5. Elvano Zayrendra Mahendra Firnansyah
 
         2. Nama: Kaveh Muzaffar Khalaf
            Pasangan: 
            Anak: 
 
 GENERASI 0
+   Anak Roxana Mehrunnisa Khalaf dengan Harith Ghiyath Firnansyah
+      1. Nama: Zaviera Naeema Qaneya Firnansyah
+         Pasangan: 
+         Anak: 
+
+      2. Nama: Afdal Adha Firnansyah
+         Pasangan: 
+         Anak: 
+         
+      3. Nama: Yumna Maliqa Firnansyah
+         Pasangan: 
+         Anak: 
+         
+      4. Nama: Aluna Qanita Syafira Putri Firnansyah
+         Pasangan: 
+         Anak: 
+         
+      5. Nama: Elevano Zayrendra Mahendra Firnansyah
+         Pasangan: 
+         Anak: 

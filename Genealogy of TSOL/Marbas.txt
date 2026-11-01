@@ -19,7 +19,16 @@ GENERASI -1
            Anak: 
            
         2. Nama: Sevariano Cassiel Marbas
+           Pasangan: Lucinda Florence Hawthorne
+           Anak: 1. Maxence Lysander Marbas
+                 2. Xavier Devano Marbas
+
+GENERASI 0
+    Anak Sevariano Cassiel Marbas dengan Lucinda Florence Hawthorne
+        1. Nama: Maxence Lysander Marbas
            Pasangan: 
            Anak: 
 
-GENERASI 0
+        2. Nama: Xavier Devano Marbas
+           Pasangan: 
+           Anak: 

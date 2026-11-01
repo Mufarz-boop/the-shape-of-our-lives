@@ -56,7 +56,31 @@ GENERASI -1
 
    Anak Leopold Wilhelm von Treuhardt dengan Philomena Louise von Dornheim
       1. Nama: Zheron Roderick von Treuhardt
+         Pasangan: Cecilia Rosalind Ashcombe
+         Anak: 1. Deon Alexander von Treuhardt
+               2. Lusy Adelheid von Treuhardt
+               3. Vegis Konstantin von Treuhardt
+               4. Anastasia Odette von Treuhardt
+               5. Vivienne Cillia von Treuhardt
+
+GENERASI 0
+   Anak Zheron Roderick von Treuhardt dengan Cecilia Rosalind Ashcombe
+      1. Nama: Deon Alexander von Treuhardt
          Pasangan: 
          Anak: 
 
-GENERASI 0
+      2. Nama: Lusy Adelheid von Treuhardt
+         Pasangan: 
+         Anak: 
+
+      3. Nama: Vegis Konstantin von Treuhardt
+         Pasangan: 
+         Anak: 
+
+      4. Nama: Anastasia Odette von Treuhardt
+         Pasangan: 
+         Anak: 
+
+      5. Nama: Vivienne Cillia von Treuhardt
+         Pasangan: 
+         Anak: 
