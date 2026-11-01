@@ -3,11 +3,24 @@ Firnansyah Family
 GENERASI -3
     1. Nama: Muhammad Firdaus Firnansyah
        Pasangan: Siti Rahmah binti Abdullah
-       Anak: 
+       Anak: 1. Muhammad Rayyan Firnansyah
+             2. Ammar Dzulfikar Firnansyah
+             3. Naura Khairunnisa Firnansyah
        
 GENERASI -2
     Anak Muhammad Firdaus Firnansyah dengan Siti Rahmah binti Abdullah
-    
+        1. Nama: Muhammad Rayyan Firnansyah
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Ammar Dzulfikar Firnansyah
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Naura Khairunnisa Firnansyah
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

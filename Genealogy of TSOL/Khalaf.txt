@@ -5,15 +5,26 @@ GENERASI -3
        Pasangan: 1. Amina Zahra al-Haddad
                  2. Layla Samira al-Masri
                  3. Nadia Farah al-Rashid
-       Anak: 
+       Anak: 1. Ruqayyah Nazeera Khalaf
+             2. Nour Eliana Khalaf
+             3. Zaydan Samir Khalaf
        
 GENERASI -2
     Anak Ibrahim Nasser Khalaf dengan Amina Zahra al-Haddad
+        1. Nama: Ruqayya Nazeera Khalaf
+           Pasangan: 
+           Anak: 
 
     Anak Ibrahim Nasser Khalaf dengan Layla Samira al-Masri
+        1. Nama: Nour Eliana Khalaf
+           Pasangan: 
+           Anak: 
 
     Anak Ibrahim Nasser Khalaf dengan Nadia Farah al-Rashid
-    
+        1. Nama: Zaydan Samir Khalaf
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

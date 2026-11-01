@@ -5,14 +5,30 @@ GENERASI -3
        Pasangan: 1. Zainab Noor Jahan
                  2. Samina Gulrukh
                  3. Mahvish Rukhsana
-       Anak: 
+       Anak: 1. Safiyya Zaren at-Kashmiri
+             2. Liyana Afsheen Nureh at-Kashmiri
+             3. Zarrar Sikandar Mirza at-Kashmiri
+             4. Delara Shireen at-Kashmiri
        
 GENERASI -2
     Anak Mirza Azeemuddin Farooq at-Kashmiri dengan Zainab Noor Jahan
+        1. Nama: Safiyya Zaren at-Kashmiri
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Liyana Afsheen Nureh at-Kashmiri
+           Pasangan: 
+           Anak: 
 
     Anak Mirza Azeemuddin Farooq at-Kashmiri dengan Samina Gulrukh
-    
+        1. Nama: Zarrar Sikandar Mirza at-Kashmiri
+           Pasangan: 
+           Anak: 
+
     Anak Mirza Azeemuddin Farooq at-Kashmiri dengan Mahvish Rukhsana
+        1. Nama: Delara Shireen at-Kashmiri
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

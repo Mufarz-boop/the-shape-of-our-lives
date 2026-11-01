@@ -3,10 +3,18 @@ al-Mahiri Family
 GENERASI -3
     1. Nama: Zaydan Rashid al-Mahiri
        Pasangan: Maryam Safiyya al-Khatib
-       Anak: 
+       Anak: 1. Ibrahim Rashdan al-Mahiri
+             2. Sulaiman Hamdan al-Mahiri
        
 GENERASI -2
     Anak Zaydan Rashid al-Mahiri dengan Maryam Safiyya al-Khatib
+        1. Nama: Ibrahim Rashdan al-Mahiri
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Sulaiman Hamdan al-Mahiri
+           Pasangan: 
+           Anak: 
 
 GENERASI -1
 

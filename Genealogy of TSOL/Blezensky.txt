@@ -3,11 +3,19 @@ Blezensky Family
 GENERASI -3
     1. Nama: Viktor Emil Blezensky
        Pasangan: Katarina Milena Vondrak
-       Anak: 
+       Anak: 1. Magdalena Rosalie Blezensky
+             2. Maximilian Ales Blezensky
        
 GENERASI -2
     Anak Viktor Emil Blezensky dengan Katarina Milena Vondrak
-    
+        1. Nama: Magdalena Rosalie Blezensky
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Maximilian Ales Blezensky
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

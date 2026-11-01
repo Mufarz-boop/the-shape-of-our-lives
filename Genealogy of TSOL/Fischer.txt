@@ -3,11 +3,19 @@ Fischer Family
 GENERASI -3
     1. Nama: Friedrich Wilhelm Fischer
        Pasangan: Margarethe Elisabeth Schneider
-       Anak: 
+       Anak: 1. Konstantin Emil Fischer
+             2. Katharina Adelheid Fischer
        
 GENERASI -2
     Anak Friedrich Wilhelm Fischer dengan Margarethe Elisabeth Schneider
-    
+        1. Nama: Konstantin Emil Fischer
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Katharina Adelheid Fischer
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

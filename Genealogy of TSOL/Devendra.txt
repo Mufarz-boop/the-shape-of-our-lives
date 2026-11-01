@@ -3,11 +3,19 @@ Devendra Family
 GENERASI -3
     1. Nama: Rajendra Vikram Devendra
        Pasangan: Ananya Lakshmi Sharma
-       Anak: 
+       Anak: 1. Ishaan Rajvardhan Devendra
+             2. Krishiv Mahadev Devendra
        
 GENERASI -2
     Anak Rajendra Vikram Devendra dengan Ananya Lakshmi Sharma
-    
+        1. Nama: Ishaan Rajvardhan Devendra
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Krishiv Mahadev Devendra
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

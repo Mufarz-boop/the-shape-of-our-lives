@@ -4,13 +4,25 @@ GENERASI -3
     1. Nama: Edward William Harrington
        Pasangan: 1. Charlotte Eleanor Whitmore
                  2. Victoria Adelaide Sinclair
-       Anak: 
+       Anak: 1. Cordelia Elizabeth Harrington
+             2. Amelia Florence Harrington
+             3. Oliver Benedict Harrington
        
 GENERASI -2
     Anak Edward William Harrington dengan Charlotte Eleanor Whitmore
+        1. Nama: Cordelia Elizabeth Harrington
+           Pasangan: 
+           Anak: 
 
     Anak Edward William Harrington dengan Adelaide Sinclair
-    
+        1. Nama: Amelia Florence Harrington
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Oliver Benedict Harrington
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

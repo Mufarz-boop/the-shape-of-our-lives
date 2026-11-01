@@ -3,11 +3,24 @@ Prasetya Family
 GENERASI -3
     1. Nama: Wiratama Adinugraha Prasetya
        Pasangan: Ratih Sekar Wulandari
-       Anak: 
+       Anak: 1. Anindya Nareswari Prasetya
+             2. Narendra Wicaksana Prasetya
+             3. Ranggawijaya Mahardika Prasetya
        
 GENERASI -2
     Anak Wiratama Adinugraha Prasetya dengan Ratih Sekar Wulandari
-    
+        1. Nama: Anindya Nareswari Prasetya
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Narendra Wicaksana Prasetya
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Ranggawijaya Mahardika Prasetya
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

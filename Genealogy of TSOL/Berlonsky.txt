@@ -3,11 +3,14 @@ Berlonsky Family
 GENERASI -3
     1. Nama: Aleksandr Mikhailovich Berlonsky
        Pasangan: Yelena Viktorovna Sokolova
-       Anak: 
+       Anak: Vladimir Aleksandrovich Berlonsky
        
 GENERASI -2
     Anak Aleksandr Mikhailovich Berlonsky dengan Yelena Viktorovna Sokolova
-    
+        1. Nama: Vladimir Aleksandrovich Berlonsky
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

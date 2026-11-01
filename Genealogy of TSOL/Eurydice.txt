@@ -3,11 +3,14 @@ Eurydice Family
 GENERASI -3
     1. Nama: Alexandros Theodoros Eurydice
        Pasangan: Callista Helena Andronikos
-       Anak: 
+       Anak: Theophilos Leonidas Eurydice
        
 GENERASI -2
     Anak Alexandros Theodoros Eurydice dengan Callista Helena Andronikos
-    
+        1. Nama: Theophilos Leonidas Eurydice
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

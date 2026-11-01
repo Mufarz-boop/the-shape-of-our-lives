@@ -3,11 +3,24 @@ Ardhana Family
 GENERASI -3
     1. Nama: Raden Aryasatya Wiranegara Ardhana
        Pasangan: Raden Ayu Kusumaningrum Prawiradiningrat
-       Anak: 
+       Anak: 1. Raden Ayu Adhisty Kusumaningrum Ardhana
+             2. Raden Danendra Kusumawardhana Ardhana
+             3. Raden Ayu Candrakirana Maheswari Ardhana
        
 GENERASI -2
     Raden Aryasatya Wiranegara Ardhana dengan Raden Ayu Kusumaningrum Prawiradiningrat
-    
+        1. Nama: Raden Ayu Adhisty Kusumaningrum Ardhana
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Raden Danendra Kusumawardhana Ardhana
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Raden Ayu Candrakirana Maheswari Ardhana
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

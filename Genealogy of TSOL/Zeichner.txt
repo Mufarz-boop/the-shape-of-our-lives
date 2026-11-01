@@ -3,11 +3,14 @@ Zeichner Family
 GENERASI -3
     1. Nama: Matthias Leopold Zeichner
        Pasangan: Clara Johanna Weiss
-       Anak: 
+       Anak: Valentin Matthias Zeichner
        
 GENERASI -2
     Anak Matthias Leopold Zeichner dengan Clara Johanna Weiss
-    
+        1. Nama: Valentin Matthias Zeichner
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

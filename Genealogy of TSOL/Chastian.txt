@@ -3,11 +3,14 @@ Chastian Family
 GENERASI -3
     1. Nama: Theodore Augustin Chastian
        Pasangan: Eleonora Vivienne Beaumont
-       Anak: 
+       Anak: Valentina Evangeline Chastian
        
 GENERASI -2
     Anak Theodore Augustin Chastian dengan Eleonora Vivienne Beaumont
-    
+        1. Nama: Valentina Evangeline Chastian
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

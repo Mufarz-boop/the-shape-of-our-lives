@@ -3,11 +3,14 @@ Hawthorne Family
 GENERASI -3
     1. Nama: Nathaniel Everett Hawthorne
        Pasangan: Abigail Rose Montgomery
-       Anak: 
+       Anak: Christopher Augustus Hawthorne
        
 GENERASI -2
     Anak Nathaniel Everett Hawthorne dengan Abigail Rose Montgomery
-    
+        1. Nama: Christopher Augustus Hawthorne
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

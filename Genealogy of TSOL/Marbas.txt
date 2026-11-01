@@ -3,11 +3,14 @@ Marbas Family
 GENERASI -3
     1. Nama: Lucien Alexandre Marbas
        Pasangan: Isabelle Marguerite Laurent
-       Anak: 
+       Anak: Raphael Margaux Marbas
        
 GENERASI -2
     Anak Lucien Alexandre Marbas dengan Isabelle Marguerite Laurent
-    
+        1. Nama: Raphael Margaux Marbas
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

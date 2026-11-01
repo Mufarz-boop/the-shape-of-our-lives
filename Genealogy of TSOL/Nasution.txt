@@ -3,11 +3,19 @@ Nasution Family
 GENERASI -3
     1. Nama: Haji Abdul Karim Nasution
        Pasangan: Siti Aminah Lubis
-       Anak: 
+       Anak: 1. Aisyah Khairunnisa Nasution
+             2. Ahmad Fauzan Nasution
        
 GENERASI -2
     Anak Haji Abdul Karim Nasution dengan Siti Aminah Lubis
-    
+        1. Nama: Aisyah Khairunnisa Nasution
+           Pasangan: 
+           Anak: 
+        
+        2. Nama: Ahmad Fauzan Nasution
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0

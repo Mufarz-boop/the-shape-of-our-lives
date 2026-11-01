@@ -4,13 +4,30 @@ GENERASI -3
     1. Nama: Friedrich Albrecht von Treuhardt
        Pasangan: 1. Adelheid Margarethe von Eberstein
                  2. Elisabeth Charlotte von Falkenrath
-       Anak: 
+       Anak: 1. Amalia Mathilde von Treuhardt
+             2. Dorothea Leonore von Treuhardt
+             3. Gabrielle Theodora von Treuhardt
+             4. Leopold Wilhelm von Treuhardt
        
 GENERASI -2
     Anak Friedrich Albrecht von Treuhardt dengan Adelheid Margarethe von Eberstein
-    
+        1. Nama: Amalia Mathilde von Treuhardt
+           Pasangan: 
+           Anak: 
+
+        2. Nama: Dorothea Leonore von Treuhardt
+           Pasangan: 
+           Anak: 
+
+        3. Nama: Gabrielle Theodora von Treuhardt
+           Pasangan: 
+           Anak: 
+
     Anak Friedrich Albrecht von Treuhardt dengan Elisabeth Charlotte von Falkenrath
-    
+        1. Nama: Leopold Wilhelm von Treuhardt
+           Pasangan: 
+           Anak: 
+
 GENERASI -1
 
 GENERASI 0
