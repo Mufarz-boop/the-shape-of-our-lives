@@ -11,11 +11,11 @@ GENERASI -3
 GENERASI -2
     Anak Ompu Tuan Raja Saut Hutabarat dengan Boru Sondang br. Simanjuntak
         1. Nama: Elfrida Nauli Hutabarat
-           Pasangan: 
+           Pasangan: Raja Togar Sihombing
            Anak: 
 
         2. Nama: Yuliana Purnama Hutabarat
-           Pasangan: 
+           Pasangan: Horas Parningotan Manurung
            Anak: 
 
         3. Nama: Hotma Raja Hutabarat
@@ -23,7 +23,7 @@ GENERASI -2
            Anak: 
 
         4. Nama: Rosmauli Hutabarat
-           Pasangan: 
+           Pasangan: Oloan Martua Siraja
            Anak: 
 
 GENERASI -1
