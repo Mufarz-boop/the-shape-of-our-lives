@@ -23,3 +23,7 @@ GENERASI -1
            Anak: 
 
 GENERASI 0
+    Anak Gaspard Evandre Chastian
+
+    Anak Cyprien Alexandre Chastian
+    

@@ -56,6 +56,12 @@ GENERASI -1
            Anak: 
 
 GENERASI 0
+   Anak Razan Mahinur Habibullah
+
+   Anak Iskandar Ayyash Habibullah
+
+   Anak Arqam Zaryab al-Azhari
+
    Anak Roxana Mehrunnisa Khalaf dengan Harith Ghiyath Firnansyah
       1. Nama: Zaviera Naeema Qaneya Firnansyah
          Pasangan: 
@@ -76,3 +82,6 @@ GENERASI 0
       5. Nama: Elevano Zayrendra Mahendra Firnansyah
          Pasangan: 
          Anak: 
+
+   Anak Kaveh Muzaffar Khalaf
+   

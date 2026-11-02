@@ -52,6 +52,10 @@ GENERASI -1
          Anak: 
 
 GENERASI 0
+   Anak Afsana Zoya Shahnaz Firnansyah
+
+   Anak Kaysan Zaryab Firnansyah
+
    Anak Harith Ghiyath Firnansyah dengan Roxana Mehrunnisa Khalaf
       1. Nama: Zaviera Naeema Qaneya Firnansyah
          Pasangan: 
@@ -72,3 +76,8 @@ GENERASI 0
       5. Nama: Elevano Zayrendra Mahendra Firnansyah
          Pasangan: 
          Anak: 
+
+   Anak Thurayya Mikayla al-Faruqi
+
+   Anak Ghazala Haneen al-Faruqi
+   

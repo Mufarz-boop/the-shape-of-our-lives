@@ -49,6 +49,8 @@ GENERASI -1
          Anak: 
 
 GENERASI 0
+   Anak Maximilian Valentin Zeichner
+
    Anak Cornelius Valentin Zeichner dengan Mikhail Vladimirovich Berlonsky
       1. Nama: Dimitri Mikhailovich Berlonsky
          Pasangan: 
@@ -57,3 +59,12 @@ GENERASI 0
       2. Nama: Leonore Mikhailovna Berlonsky
          Pasangan: 
          Anak: 
+
+   Anak Oldrich Konstantin Blezensky
+
+   Anak Apolena Mathilde Blezensky
+
+   Anak Zora Severina Blezensky
+
+   Anak Radovan Alexander Blezensky
+   

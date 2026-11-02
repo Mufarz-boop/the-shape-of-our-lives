@@ -18,3 +18,5 @@ GENERASI -1
            Anak: 
 
 GENERASI 0
+    Anak Leontius Alexios Eurydice
+    

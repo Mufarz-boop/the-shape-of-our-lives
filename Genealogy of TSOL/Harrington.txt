@@ -60,6 +60,10 @@ GENERASI -1
          Anak: 
 
 GENERASI 0
+   Anak Edmund Alexander Hawthorne
+
+   Anak Ophelia Marguerite Hawthorne
+
    Anak Lucinda Florence Hawthorne dengan Sevariano Cassiel Marbas
       1. Nama: Maxence Lysander Marbas
          Pasangan: 
@@ -89,3 +93,8 @@ GENERASI 0
       5. Nama: Vivienne Cillia von Treuhardt
          Pasangan: 
          Anak: 
+
+   Anak Lucian Augustus Harrington
+
+   Anak Tristan Everard Harrington
+   
